@@ -1,5 +1,7 @@
-# habitual_be
-Building a Habitual Be tagger
+# ALFAH -- A Toolkit for Annotating Linguistic Features in African American Oral Histories
+
+## habitual_be : Habitual Be tagger
+Link to code for this tagger: https://github.com/wilermine/CoLing-LREC-HabitualBe/tree/main
 
 Sample code for reformatting data files from format used for Esemble model to format needed in my implementation of fairseq. 
 
