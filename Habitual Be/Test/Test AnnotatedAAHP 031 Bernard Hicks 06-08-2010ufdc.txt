@@ -1,0 +1,875 @@
+	speaker	text	nullCopula	personNumberAgreement	multipleNegators	existentialItDEY	perfectDone	remotePastBIN	habitualBe
+0	W:	Okay, this is Scott Wood.							0.0
+1	W:	I'm sitting in the home of Bernard Hicks in Northeast Gainesville.							0.0
+2	W:	And, how are you doing today, Mr. Hicks?							0.0
+3	H:	Very well.							0.0
+4	W:	Okay.							0.0
+5	W:	So, I guess the first question I'll just ask you is, tell me a little bit about your background, your family, if you had brothers and sisters growing up.							0.0
+6	H:	Yeah, I was born in a little place outside of Gainesville called Santa Fe, Florida, which is on the other side of Lacrosse; it's about maybe thirteen miles from here.							0.0
+7	H:	Started the school in Alachua, Florida, at a school called Alachua Training Center.							0.0
+8	H:	Transferred there after a couple months to Lincoln Elementary School.							0.0
+9	H:	My brother and I enrolled at Lincoln Elementary School, and I was there until I graduated from the sixth grade going on to Lincoln High School.							0.0
+10	H:	I entered Lincoln in the seventh grade, and that was where the joy of my life begins, being at Lincoln High School.							0.0
+11	H:	From going to high school there, I joined the band.							0.0
+12	H:	The teachers were good teachers, teachers that were parents away from home.							0.0
+13	H:	People that cared about you and your learning, who understood your culture, your background.							0.0
+14	H:	And Lincoln High School taught me a lot as far as life experiences are concerned, as well as the vocational and the academics.							0.0
+15	H:	Lincoln was that type of school.							0.0
+16	H:	The administration of Lincoln was always open to new ideas and better ideas to educate us.							0.0
+17	H:	Any other thing you want to know about me?							0.0
+18	H:	Just ask me some questions, and I can give you some answers.							0.0
+19	W:	What was home life like for you?							0.0
+20	H:	Home life?							0.0
+21	W:	Yeah, growing up as a kid.							0.0
+22	H:	Growing up as a kid?							0.0
+23	H:	My, I grew up under the parenthood of my grandparents.							0.0
+24	H:	My grandparents actually raised me.							0.0
+25	H:	We moved into this house in 1953.							0.0
+26	H:	December the 17th, 1953.							0.0
+27	H:	I ran this neighborhood, up and down these streets, during the summertime.							0.0
+28	H:	Didn't do much of that during the wintertime, because my grandmother was the type of person that believed in you staying at home, studying, that you could make good grades.							0.0
+29	H:	Stuff like that.							0.0
+30	H:	I have one brother who is two years older than I am, and he also went to Lincoln.							0.0
+31	H:	That's about it.							0.0
+32	H:	I went to church over here at Mount Hermon Baptist Church; I grew up in that church.							0.0
+33	W:	Right next door.							0.0
+34	H:	Mmhm, next door.							0.0
+35	H:	Before that church was constructed, there was a church across the street called Mount Zion Baptist Church, which no longer stand there.							0.0
+36	H:	So I had—so, put it like this: I remember two different churches that I grew up in.							0.0
+37	H:	Had good youth departments.							0.0
+38	H:	Lot of my friends went to church there, as well as my schoolmates.							0.0
+39	W:	What was the neighborhood like?							0.0
+40	H:	This was called Old Virginia Avenue.							0.0
+41	H:	This is the Virginia Avenue neighborhood.							0.0
+42	H:	Court Quarters is right down the street.							0.0
+43	H:	A lot of the people that lived in Court Quarters were relatives of mine.							0.0
+44	H:	So.							0.0
+45	H:	At one time, the park that's across the ditch was not integrated, and we couldn't play in the park.							0.0
+46	H:	So, we had to make our own park.							0.0
+47	H:	And our park was our backyard, and the open field across from the Gainesville Shopping Center, that we could play softball and football.							0.0
+48	H:	And the basketball court was our backyard.							0.0
+49	W:	So the park across the street, you couldn't go because it was for Whites only?							0.0
+50	H:	Right, mmhm.							0.0
+51	H:	For Whites only.							0.0
+52	W:	What—did you encounter any other kind of—?							0.0
+53	W:	"Well, sometime we were determined to go over there and play, and we would be chased away—not by our peers, it was always adults that chased us away.							"							-1.0
+54	H:	No kids.							0.0
+55	W:	Just the adults, they didn't ever call the police to get you out of there?							0.0
+56	H:	Never called the police.							0.0
+57	H:	They might've made threats and, you know, charged towards you, and stuff like that.							0.0
+58	W:	What was it like growing up in a segregated society in Gainesville in the—?							0.0
+59	H:	It didn't bother me because before total integration came about, our communities raised their own children.							0.0
+60	H:	And in a lot of cases we raised our own food, and there wasn't a need for actually going to some of the White establishments, you know, for things.							0.0
+61	H:	You only went because there were necessities and things that you really, really need, like groceries.							0.0
+62	H:	Stuff like that.							0.0
+63	H:	Now, as far as going to clothing stores and stuff like that, my grandmother made all our clothes.							0.0
+64	H:	So, as far as clothing was concerned, we never had to, like, go to the stores for clothes.							0.0
+65	H:	She made trousers, shirts, coats; she did the whole works and things.							0.0
+66	W:	So did you ever feel like you were missing out on anything?							0.0
+67	H:	No, not really.							0.0
+68	H:	That's why before integration came about in the schools, it did not bother me.							0.0
+69	H:	I always just—well, some things did bother me.							0.0
+70	H:	Books, not being able to have new books.							0.0
+71	W:	"Knowing that books had to be new at one time, you know.							"							-1.0
+72	H:	The hand-me books, that had messages to them in those books that was directed to you—directed to us.							0.0
+73	H:	One thing that I will never forget: we used to go to the University of Florida to sell Cokes and Pepsi colas.							0.0
+74	H:	And this particular game, the Gators lost to Miami 3-0.							0.0
+75	H:	And the students were kind of like upset.							0.0
+76	H:	And I was caught with a tray of sodas, and I went out of the gate to sell my sodas to get my little profit, two dollars and forty cent, back.							0.0
+77	H:	And I reached over to get a soda, and some students surrounded me, and started kicking and spitting on me, and calling me all sorts of names.							0.0
+78	H:	That's why I'm not a Gator today.							0.0
+79	H:	I ran from— out of fear I ran from in front of the entrance of the stadium, all the way to 5th Avenue.							0.0
+80	H:	And, as a matter of fact, I think—							0.0
+81	H:	yeah,							0.0
+82	H:	I was a senior that year.							0.0
+83	W:	"And I was working in order to be able to afford my class ring, graduation invitations, and my cap and gown and stuff like that.							"							-1.0
+84	H:	That was an experience.							0.0
+85	W:	How long did you work at the stadium selling Cokes?							0.0
+86	H:	I did that, you know, during football seasons.							0.0
+87	H:	I think I started, might've started in about maybe the 9th grade.							0.0
+88	H:	It was a hassle doing it, because a lot of times you would pass sodas down, you didn't get your money back.							0.0
+89	H:	You know.							0.0
+90	W:	Especially when the students are drinking.							0.0
+91	H:	You might have been walking, you might have been going up the steps, and somebody intentionally put they foot out, you know, to trip you.							0.0
+92	H:	And that was only because you were Black.							0.0
+93	H:	"One thing that I could go back to that I like to talk about, too, is the fact that out in Lincoln Elementary School, I was put in a drill team called the Flossie McLendon Memorial Drill—well it wasn't ""memorial"" then."							0.0
+94	H:	It was A Quinn Jones Drill Team, and it was led by a lady named Flossie McLendon.							0.0
+95	H:	And in 1957, I marched Gator Parade.							0.0
+96	H:	And going down the street, we were called all sorts of names, you know, jungle bunnies, niggers, that kind of stuff like that.							0.0
+97	H:	Later on, I learned that we did it, but we didn't have permission to do it.							0.0
+98	H:	And next year I think Lincoln High School was invited to march in the parade.							0.0
+99	W:	What year was that?							0.0
+100	H:	1957.							0.0
+101	W:	So you guys marched—							0.0
+102	H:	And I remember that because I was in the fourth grade.							0.0
+103	W:	Okay.							0.0
+104	W:	So you marched in the Homecoming parade?							0.0
+105	H:	Mmhm.							0.0
+106	W:	And you weren't, you didn't find out until afterwards that you weren't allowed to do that?							0.0
+107	H:	Yeah, that she actually did that without permission.							0.0
+108	W:	Wow!							0.0
+109	W:	That takes some guts.							0.0
+110	W:	That's pretty impressive, though.							0.0
+111	W:	Because then the next year, the Lincoln band was invited.							0.0
+112	H:	And we marched the next year.							0.0
+113	W:	So you were in band while you were at Lincoln, too?							0.0
+114	H:	Yeah.							0.0
+115	W:	And what was that like?							0.0
+116	H:	Being in the band?							0.0
+117	H:	"It was an honor to be in the band, because you learned music.							"							-1.0
+118	H:	Most people that was in the band started band when they were in the sixth grade, maybe.							0.0
+119	H:	During the summer, probably leaving the sixth grade.							0.0
+120	H:	At least, I was leaving the sixth grade.							0.0
+121	H:	And I started playing the clarinet.							0.0
+122	H:	And I actually make the band until I was in the eighth grade.							0.0
+123	W:	"That seventh grade year, I didn't know enough to be in the band, as far as music was concerned, and being able to play the clarinet.							"							-1.0
+124	W:	"It took me about a year to actually really learn it, you know, that I could be put in the band.							"							-1.0
+125	H:	And at the time, we didn't have a junior high band or a senior high band, it was just band.							0.0
+126	H:	So you was in the band, and you might have been sitting next to a senior.							0.0
+127	H:	Which gave you an incentive for wanting to actually master your instrument.							0.0
+128	H:	At least that's the way I felt about the instrument.							0.0
+129	W:	So you played the clarinet all the way through?							0.0
+130	H:	Mmhm.							0.0
+131	H:	I went off to college and majored in music, and the clarinet was my major instrument, with a concentration in woodwind instruments.							0.0
+132	W:	Where did you go to college?							0.0
+133	H:	North Carolina A&T State University, in Greensboro.							0.0
+134	W:	Were you, that was after—were you there during the sit-ins?							0.0
+135	H:	No, the sit-ins had taken place when I went there.							0.0
+136	H:	As a matter of fact, the sit-ins took place in 1961, and 61 I was in high school.							0.0
+137	H:	But I knew of it by the news media and stuff like that.							0.0
+138	H:	Then when I got to college, I met some of the guys, couple of the guys, that, you know, when they would come back to talk about that ice breaking thing.							0.0
+139	H:	Sitting in.							0.0
+140	H:	No, I wasn't a part of that.							0.0
+141	H:	I was a part of the student protesting era in 1969 in Greensboro when a lot of the state schools were receiving money, and A&T did not get the money that we thought that they should have got.							0.0
+142	H:	So, I was part of that movement that went to Raleigh and protested.							0.0
+143	H:	There was a riot that started in Greensboro at the time, it was a lot of things, a lot of grievances we had, with the state, that had not been made and we protested.							0.0
+144	W:	Were you involved with SNCC?							0.0
+145	H:	SNCC?							0.0
+146	W:	Student Non-Violent Coordinating Committee?							0.0
+147	W:	Or just, was that just a general—?							0.0
+148	H:	"Well, Student Non-Violent—well, I wasn't affiliated with SNCC at the time, because I was one of those that felt that a lot of the battle could be won with, not so much to say violence, but being radical.							"							-1.0
+149	H:	A lot of my friends were people of SOBU, which is Student Organization for Black Unity; ' YOBU, which was Youth Organization for Black Unity; and backed by the Black Panther Party.							0.0
+150	H:	And at the time, the Black Panther Party that had that type of—well it was two ideologies of the Black Panther in Greensboro at that time.							0.0
+151	H:	There was some non-violent and the violent, and I would say that I stood more on the no of non-violence.							0.0
+152	W:	More peaceful protests.							0.0
+153	H:	Peaceful protests.							0.0
+154	W:	Yeah.							0.0
+155	W:	Did you guys protest businesses, or—?							0.0
+156	H:	Well, we protested businesses; anything that stood in the way of equality.							0.0
+157	H:	You know, we wasn't—at the time, we weren't so much fighting for integration.							0.0
+158	H:	At the time, we were just fighting for equality, and being treated equal, and having equal rights.							0.0
+159	H:	That's what we were about.							0.0
+160	H:	These are things that, my support or involvement of things was so much of being treated equal.							0.0
+161	H:	When you're treated equal, you're treated as a human.							0.0
+162	H:	When you're treated otherwise, you not treated as a human.							0.0
+163	H:	So, that's where I stood.							0.0
+164	W:	What were your thoughts when integration happened, and schools were desegregated, and Lincoln was closed?							0.0
+165	H:	I feel when Lincoln was closed, it was very unfair to us as a race of Black people here in Alachua County, even though I had graduated and was away.							0.0
+166	H:	The same thing was happening all over the South.							0.0
+167	H:	And I felt that it was wrong to do that, close off the schools.							0.0
+168	H:	And then I thought about Lincoln at that time: Lincoln was re-evaluated in 1965, and it was, I think, one of two accredited schools in the state,							0.0
+169	H:	okay?							0.0
+170	H:	And at the time it was closed, two—I'll put it like this: GHS was not an accredited school at the time Lincoln was closed.							0.0
+171	H:	I felt like that was very wrong to do to get integration, or to enforce integration.							0.0
+172	H:	I felt the federal government did not really sit down and investigate things, and look at both sides of the track, in order to make the decision that it made.							0.0
+173	H:	Why close a school that is fully equipped and send them to a school that's not even accredited?							0.0
+174	H:	It didn't make sense.							0.0
+175	H:	And even today, if that was to happen, I would say that don't make sense.							0.0
+176	H:	Lincoln had a vocation department, academic pre-collegiate; it was just a good school.							0.0
+177	H:	They had qualified teachers.							0.0
+178	H:	You had teachers there with Masters and that kind of thing like that, and it was just very unfair to close that school.							0.0
+179	H:	"It would've been so simple to say, ""Well, we'll treat you equal,"" more so than to close it."							0.0
+180	H:	Those people that wanted to go to Gainesville High School, they integrated Gainesville High School: thank you.							0.0
+181	H:	But we wasn't asking—as a whole—we wasn't asking for integration.							0.0
+182	H:	We was asking for equality.							0.0
+183	W:	I wanted to go back to the books.							0.0
+184	W:	You said that when you guys, when you got the school textbooks that there was stuff written in there for you?							0.0
+185	H:	"Yeah, it would be like— ""To the nigger that gets this book: I hope you have the intelligence to comprehend what's in this book."							0.0
+186	H:	""" You know, little negative messages that you had in the books, because they knew that the books would be passed down to us."							0.0
+187	W:	And there was no attempt to make, to get rid of that stuff in the books, like cross it out, before they were given to students?							0.0
+188	H:	No.							0.0
+189	W:	No.							0.0
+190	W:	That certainly makes learning a little challenging, I would imagine.							0.0
+191	H:	Yeah, it's a hard pill to swallow.							0.0
+192	W:	Yes, I can imagine.							0.0
+193	W:	Were you involved in any sports in school?							0.0
+194	H:	No, I wasn't an athletic—I was an athletic type person, too.							0.0
+195	H:	Most of my sports were just intramural because my grandmother didn't, would never sign for me to play sports, like go out for the football team, go out for the basketball team.							0.0
+196	H:	Back then parents had to have that, you had to have the parents' permission.							0.0
+197	H:	My grandmother never wanted me to do those things for some reason.							0.0
+198	W:	So you stuck with band?							0.0
+199	H:	Stuck with band and other organizations							0.0
+200	W:	What other extracurricular activities did you have?							0.0
+201	H:	I was in the organizations like Future Business Leaders of America.							0.0
+202	H:	"I always did like the agriculture part of things, so I was in Farmers of America, which, to me, was a good organization to be a member of.							"							-1.0
+203	H:	Even today, my Ag instructor, I go by to see him.							0.0
+204	H:	Yeah.							0.0
+205	W:	So when you went off to North Carolina A&T, and you studied music, was that your major?							0.0
+206	W:	And then, what did you do after graduation?							0.0
+207	H:	Well I didn't graduate.							0.0
+208	H:	I came up short of hours, and my family had run out of money.							0.0
+209	H:	And I chose not to go back the next year, to start working.							0.0
+210	H:	And I didn't work in education, I worked with Western Union International, teletype, it was— Western Union Communication Systems.							0.0
+211	H:	I worked with them for a number of years.							0.0
+212	H:	And then, I started working in daycare.							0.0
+213	H:	My next job was United Daycare.							0.0
+214	H:	I actually didn't start working in the education field until I moved to Winston-Salem, and I worked at North Carolina School of the Arts in a foundation and a lot of production homes.							0.0
+215	H:	Just to connect with the fine arts.							0.0
+216	H:	And when I moved to Florida, I started working with the school system here.							0.0
+217	W:	When did you move back to Florida?							0.0
+218	H:	I moved back to Florida in the year of 1995.							0.0
+219	W:	95.							0.0
+220	W:	And so, are you still working with the school system, or—?							0.0
+221	H:	No, I don't work with the school system anymore.							0.0
+222	H:	I work with the Star Christian Academy, which is a private school, as fine arts director.							0.0
+223	H:	"And I do a lot of community work where people pay for some of my services in the area of discipline, and that might be through schools.							"							-1.0
+224	H:	Florida Smart Kids, which is a contract through the Alachua County system, school board.							0.0
+225	H:	I do that.							0.0
+226	H:	Basically, that's what I do in the area of education.							0.0
+227	H:	I teach music theory and the art of performing at Star Christian Academy.							0.0
+228	W:	Do you ever wish you went back to finish college?							0.0
+229	H:	In the process of doing that now.							0.0
+230	W:	Are you?							0.0
+231	W:	And how much longer until you get your degree?							0.0
+232	H:	Maybe a year.							0.0
+233	W:	A year.							0.0
+234	W:	I'm taking the same path.							0.0
+235	W:	I came back after twelve years to finish my degree at University of Florida.							0.0
+236	W:	I'm done in two weeks.							0.0
+237	W:	So, what do you like to do in your spare time these days?							0.0
+238	H:	In my spare time, I'm my mother's caregiver.							0.0
+239	H:	"So this is set up as though it's a convalescent environment, and I to see to that this operate as that, in order that she might be able to stay here.							"							-1.0
+240	H:	And like I said, I get community-involved: I got the drill teams, I got three chapters are here, and that keeps me real busy.							0.0
+241	H:	We travel.							0.0
+242	H:	They get a chance to attend behavior workshops or seminars.							0.0
+243	H:	Directing behavior and growth in children.							0.0
+244	W:	The Flossie McLendon Drill Team, was that associated with Lincoln High School?							0.0
+245	H:	No, it started as a after school activity at Lincoln Elementary School.							0.0
+246	H:	See, Lincoln Elementary School—well, Lincoln itself went from the first through the twelfth grade, before it became new Lincoln on the other side of town.							0.0
+247	H:	But when it was located on the northwest side of town, back in the 50s, it was Lincoln Elementary School.							0.0
+248	H:	It was Lincoln High School, but the elementary and the high school were combined.							0.0
+249	H:	And the Flossie McLendon organization started in 53 as an afterschool activity for young people.							0.0
+250	W:	And so, people, kids of all ages were involved in the drill team?							0.0
+251	H:	Well, elementary school kids.							0.0
+252	W:	And has that been in—has it continued?							0.0
+253	H:	No, in 1983, from what I understand, she died.							0.0
+254	H:	And of course, when she died, I was not in town because when I left in 65, I was gone for thirty years,							0.0
+255	H:	okay?							0.0
+256	H:	When I came back in 95, I found out that—I went to a Gators parade, and I didn't see the Flossie McLendon Drill Team, and nothing connected to it.							0.0
+257	H:	So I figured, like, something was wrong with this picture.							0.0
+258	H:	"It's something that should be there, because of its history.							"							-1.0
+259	H:	"I began to ask different people questions, and they were like, ""Well you know, she died in 83, and nobody took it up."""							0.0
+260	H:	"""Well, why didn't they take it up?"""							0.0
+261	H:	"And, ""Well, nobody never took it up."							0.0
+262	H:	""" I had contacted people that as in it during the time that I was there."							0.0
+263	H:	So, I rebirthed it.							0.0
+264	W:	Okay.							0.0
+265	H:	So they didn't, they had let it resolve, and I remember that when she organized it, it was to help kids learn how to respect: how to give respect as well as receive respect.							0.0
+266	H:	And then, there were a lot of kids that didn't believe in themselves, and she would take her time during this time after school to try to help mold those people into people that would believe in themselves, that they could do things.							0.0
+267	H:	Sometimes, you know, we don't get that motivation from home, so we feel like when we get in a mass, a big mass of people, that we're not equal.							0.0
+268	H:	We can't do what the next man can do.							0.0
+269	H:	So what Ms. McLendon really tried to instill in us was believing in yourself, and that you can do anything that you set your mind to doing.							0.0
+270	H:	"And when you told her, ""I can't do this, and I can't do that,"" she didn't ever want to hear stuff like that."							0.0
+271	H:	She always wanted to see you put forth an effort to do, even if you didn't do it the best like someone else who would have done it.							0.0
+272	H:	At least you would have tried.							0.0
+273	H:	So, I felt like that was very much still needed in people.							0.0
+274	H:	People didn't change.							0.0
+275	H:	You know, it's just that people got older.							0.0
+276	H:	But people can.							0.0
+277	H:	And that was a dream, that was a legacy, that was never to die—or, should never die.							0.0
+278	H:	And I feel like if something should happen to me, that somebody should pick it up and carry it on.							0.0
+279	H:	The Flossie McLendon Drill Team goes to FAMU to march in A&M's homecoming parade; they go to Daytona, march in Bethune-Cookman's parade; Jacksonville to march in Edward Waters College parade; the Martin Luther King parade, we've done the march here during King week.							0.0
+280	H:	"We try to do all the Christmas parades; our kids like to be in Christmas parades, for some reason.							"							-1.0
+281	H:	It's an exciting parade.							0.0
+282	H:	"They probably want to be in that.							"							-1.0
+283	H:	"I thought they more excited to be in the Christmas parade than they do about being in the Gators parade; I've never been able to understand that.							"							-1.0
+284	H:	"I was like, ""Oh, wow!"							0.0
+285	H:	Okay.							0.0
+286	H:	""" But you know, it's what they like."							0.0
+287	H:	"They get a chance to be in most all of the local parades of different kinds in this area and across the state that we could travel to, that financing would allow us to go to.							"							-1.0
+288	H:	And we do opening ceremonies with the color guards at different functions and churches throughout the city.							0.0
+289	H:	For example, we done it for the NAACP banquet, the Ebony Appreciation Awards program.							0.0
+290	H:	We've done it for the Martin Luther King Youth Summit here.							0.0
+291	H:	We done opening night of the youth summit during Martin Luther King's celebration week.							0.0
+292	H:	We've just been active over the community.							0.0
+293	W:	Definitely.							0.0
+294	W:	That's kids of all ages still?							0.0
+295	H:	Kids of all ages.							0.0
+296	H:	They start at the age—I have tried four-year-olds, and been successful with four-year-olds.							0.0
+297	H:	"Parents say, ""Well I want my child to be in it, but he's only four."""							0.0
+298	H:	"So I started, ""Okay, well, bring them."							0.0
+299	H:	""" They let them run around until they get all of their little running out them, and then they'll stop."							0.0
+300	H:	And then they'll focus in on what the older boys are doing.							0.0
+301	W:	And that's the drill team?							0.0
+302	W:	Is there a band associated with that, too, or is it—?							0.0
+303	H:	No band, no band.							0.0
+304	H:	It's just like a ROTC							0.0
+305	H:	It's like a ROTC We have a drill sergeant.							0.0
+306	H:	Sometimes I'm the drill sergeant, and sometimes it's young men that's recently gotten out of Service, that, it's still a part of them, you know.							0.0
+307	H:	They'll come out and teach them cadences, and little drill marches, and things like that.							0.0
+308	H: %HB 	"We've become a favorite in a lot of the parades that we be in.							"							1.0
+309	H:	Seems as though now the alumni section of the Gators parade where most of those alumni are sitting around the entrance, they wait for them to come out.							0.0
+310	H:	And we do a special salute to them, and they respond to it in positive, light way.							0.0
+311	H:	It's not like it was years ago.							0.0
+312	H:	"And I tell the kids, ""Oh, they treat you nice!"							0.0
+313	H:	"When I was there, they didn't treat me nice!"""							0.0
+314	W:	So, what year was it that it started back up?							0.0
+315	H:	In the year of, must have been about 99.							0.0
+316	W:	99?							0.0
+317	W:	And you were, are you, so you're still involved?							0.0
+318	W:	Are you running—?							0.0
+319	H:	Commander.							0.0
+320	W:	You're the commander, ok.							0.0
+321	H:	I'm the commander of the drill team.							0.0
+322	W:	That's really cool.							0.0
+323	W:	So, back to Lincoln High School, did you have any favorite— aside from music, any favorite classes, subjects?							0.0
+324	W:	You said that you learned more than just school stuff.							0.0
+325	H:	If I had a favorite class, it would have been music.							0.0
+326	H:	And my second choice would have been English.							0.0
+327	H:	Because English at Lincoln at the time was, how can I describe that?							0.0
+328	H:	You did a lot of reciting.							0.0
+329	H:	Like, an oratorical contest; the English teachers were the ones that manipulated those kind of activities.							0.0
+330	H:	And I enjoyed being in the oratorical contests and stuff like that.							0.0
+331	H:	My second choice was, in senior high school, I liked the business courses.							0.0
+332	H:	Music was always before everything else, though.							0.0
+333	W:	Music number one.							0.0
+334	H:	I liked classical music, if there is such.							0.0
+335	H:	Music doesn't have a classical period.							0.0
+336	H:	It's only the Romantic, the Baroque and Contemporary.							0.0
+337	H:	That's what the music—we say classical music, but when we say that, we're really referring to the Romantic period and the Baroque period of music.							0.0
+338	W:	Do you have a favorite composer?							0.0
+339	H:	Chopin!							0.0
+340	W:	Chopin?							0.0
+341	H:	Frédéric Chopin.							0.0
+342	W:	Do you still play the clarinet?							0.0
+343	H:	Mmhm.							0.0
+344	W:	Did you pick up any other instruments?							0.0
+345	H:	Did I pick up any instruments?							0.0
+346	W:	Did you play any other instruments?							0.0
+347	H:	I can play practically all of the other woodwind instruments.							0.0
+348	H:	But I can play a lot of the brass.							0.0
+349	W:	"But I learned to play just enough to be able to teach someone, but to say that I'm a trumpeteer or something like that?							"							-1.0
+350	H:	No.							0.0
+351	H:	But I can take a trumpet and give demonstrations on it, if I had a band that I was teaching one to play an instrument.							0.0
+352	H:	And my knowledge of all the instruments is up to par except strings.							0.0
+353	H:	I'm just not a string person, just not a string person.							0.0
+354	H:	You know, I could, the violin, my nerves couldn't take it.							0.0
+355	H:	So, I didn't give that kind of a concentration on strings.							0.0
+356	W:	Did you ever perform in an orchestra?							0.0
+357	H:	Oh, yes.							0.0
+358	W:	Yes?							0.0
+359	W:	In college?							0.0
+360	H:	Mmhm.							0.0
+361	W:	Did you go—							0.0
+362	H:	In high school, at Lincoln, which, Lincoln had a superior-rating band.							0.0
+363	H:	At the time that I was at Lincoln, they used to have the state band festival.							0.0
+364	H:	Lincoln was always a superior-rating band in marching, concert, and sight reading.							0.0
+365	H:	"It was always an honor to just to be a part of Lincoln band at the state festival, because you got a lot of recognition and looked up to from a lot of other schools.							"							-1.0
+366	H:	As a matter of fact, in 1965, Lincoln did not make it—you had to qualify for the state; Lincoln did not make the state band festival.							0.0
+367	H:	Because the year before that, we had lost so many seniors, and we was in a rebuilding year.							0.0
+368	H:	Which was unfortunate for my senior year, but we didn't make the state festival, and it was the last band in the state of Florida not to make the state festival.							0.0
+369	H:	Of course, at the time that, that was segregation.							0.0
+370	W:	"All of the Black schools participated that had bands, and it was an honor to be in Lincoln band.							"							-1.0
+371	H:	Because everyone knew it was an outstandingly good band.							0.0
+372	H:	And the concert was, oh, it was just something else!							0.0
+373	H:	It was tremendously good.							0.0
+374	H:	The band director that we had, Jerry C Miller, he was a graduate of Florida A&M And Jerry was—from what I understand, Jerry was really a math teacher that felt that the school needed a band, and started the band.							0.0
+375	H:	Because he was in the band at A&M							0.0
+376	H:	But then, he went back over the years, got a degree in music.							0.0
+377	H:	But he had a tremendously good band, both marching and concert.							0.0
+378	W:	Did the band perform at football games?							0.0
+379	H:	At all football games, especially all home games.							0.0
+380	H:	Halftime shows.							0.0
+381	W:	Who was Lincoln's big rival?							0.0
+382	W:	Was there a rival high school in Gainesville?							0.0
+383	H:	If we had a rivalry, our local rivalry was A L Mebane out of Alachua.							0.0
+384	H:	And I guess that's because it was the closest to us.							0.0
+385	H:	But then, across the state it was a very envied school, because it always had that Lincoln High School ring across the state with the other schools.							0.0
+386	H:	Everyone wanted to beat Lincoln.							0.0
+387	H:	You know, competition was always strong to play Lincoln High School out of Gainesville.							0.0
+388	H:	Why?							0.0
+389	H:	I don't know.							0.0
+390	W:	People respected Lincoln, I think.							0.0
+391	H:	Yeah, they respected Lincoln.							0.0
+392	W:	And were you in the band at North Carolina A&T?							0.0
+393	H:	Oh,							0.0
+394	H:	yeah.							0.0
+395	W:	So you did the football games there, too?							0.0
+396	H:	I marched with the—my band was the Mean Machine.							0.0
+397	H:	And I marched the A&T's Mean Machine, the Aggies' Mean Machine.							0.0
+398	H:	And I was in concert, and the orchestra.							0.0
+399	H:	And I played solo in the orchestra, and I played first clarinet in the concert band.							0.0
+400	H:	"And to be in the Aggie band, that's the pride of the school.							"							-1.0
+401	H:	So, you know, felt good about being in A&T's band.							0.0
+402	H:	And the thing about it is that Lincoln had equipped me so well for the band, for music, it was nothing to pass the audition.							0.0
+403	H:	But I saw people suffering through it.							0.0
+404	H:	To me, it was nothing.							0.0
+405	W:	So, Lincoln prepared you.							0.0
+406	H:	Lincoln prepared me.							0.0
+407	H:	Jerry Miller prepared me, you know, as a musician.							0.0
+408	H:	His requirement was, everybody had the same requirement, whether you wanted to major in music or not.							0.0
+409	H:	That was just the way, the type of band director he was.							0.0
+410	H:	At Lincoln, you wasn't in the band and that was the only thing you did.							0.0
+411	H:	You had to take music appreciation.							0.0
+412	H:	You had to take music theory, you know.							0.0
+413	H:	That's why the band was an outstandingly good band in concert, because you knew the theory of music.							0.0
+414	W:	More than just playing an instrument.							0.0
+415	H:	More than just playing an instrument.							0.0
+416	W:	Did you, when you were in the band, and traveling to—I assume you guys traveled to various football games—did you encounter any people who weren't fans of you?							0.0
+417	H:	Where we never had those type of rivalries where people wanted to fight us and stuff like that, no.							0.0
+418	H:	It was always that they wanted to see our band.							0.0
+419	H:	If the crowd was, let's say, in a big uproar, stuff like that, the minute Lincoln band hit the field, it got attention.							0.0
+420	W:	Everybody stopped what they were doing and focused on the band?							0.0
+421	H:	Focused on the band.							0.0
+422	W:	So, after college, you went to work.							0.0
+423	W:	Did you ever marry?							0.0
+424	H:	No, I'm a single dad.							0.0
+425	W:	Do you have, how many kids?							0.0
+426	H:	One, one son.							0.0
+427	W:	One son.							0.0
+428	W:	How old is he?							0.0
+429	H:	My son is forty-two, forty-three.							0.0
+430	W:	And where does he live?							0.0
+431	H:	Orlando.							0.0
+432	W:	Orlando.							0.0
+433	H:	Mmhm.							0.0
+434	H:	He went to Central Florida.							0.0
+435	W:	So what was it like being a single father?							0.0
+436	H:	Well I enjoyed being a single father.							0.0
+437	H:	I didn't meet the responsibilities until he was maybe eight or nine years old, as far as being responsible for him and his livelihood.							0.0
+438	H:	And I enjoyed it, you know, sharing my life with him.							0.0
+439	H:	We struggled together, but we made it.							0.0
+440	H:	And he's a very positive guy, very intelligent							0.0
+441	H:	and it's lot of people say he's a genius in his world, of the computers.							0.0
+442	H:	That was what he liked.							0.0
+443	H:	I never tried to put music on him in any kind of way like that, even though he appreciates, I can tell he appreciates music, because he does a lot of things by music.							0.0
+444	W:	What's his name?							0.0
+445	H:	His name is Bernard, Jr.							0.0
+446	W:	Okay.							0.0
+447	W:	And does he have any kids?							0.0
+448	H:	No.							0.0
+449	W:	No grandkids.							0.0
+450	H:	No grandkids.							0.0
+451	W:	So when you moved back to Gainesville in 95 after being gone for thirty years, how had the city changed?							0.0
+452	W:	Did you notice lots of changes, good, bad?							0.0
+453	H:	As far as environmental is concerned, I guess it changed like any other city.							0.0
+454	H:	Things go up, buildings go up, buildings come down.							0.0
+455	H:	As far as people are concerned, it's basically the same.							0.0
+456	H:	It didn't make that many changes.							0.0
+457	H:	And the things that people like to do.							0.0
+458	H:	I'm used to bigger cities, and it sometimes it cramps my style when it comes to the entertainment world, even though there are a lot of things that do come through here that I enjoy.							0.0
+459	H:	I say that's me.							0.0
+460	H:	Plays and productions.							0.0
+461	H:	"I feel like it could be more.							"							-1.0
+462	H:	"It could be more.							"							-1.0
+463	H:	I try to live here as though I was living in North Carolina.							0.0
+464	H:	And Winston-Salem, I lived in Winston- Salem for a number of years, which is the center for the arts in the South; and the Stevens Center is there.							0.0
+465	H:	So when things come here, that I could enjoy, I feel like I'm at the Stevens Center.							0.0
+466	H:	I just do the same things here that I did up there when it's available here.							0.0
+467	H:	Sometimes it's just not available here.							0.0
+468	W:	Is that associated with Wake Forest?							0.0
+469	H:	The Stevens Center?							0.0
+470	H:	Somewhat.							0.0
+471	W:	Somewhat.							0.0
+472	H:	Mmhm, somewhat.							0.0
+473	H:	And then you got people that live there like Maya Angelou, and Leon Hamlin, which is deceased now.							0.0
+474	H:	He started the Black Arts Festival that comes there; that's Oprah Winfrey, Denzel Washington, all of them, that's their festival.							0.0
+475	H:	And they had it there one year and then the odd year, they have it in Atlanta.							0.0
+476	H:	And I'm used to going to that.							0.0
+477	H:	And I don't get a chance to go to it now because of the distance, but it's a good theater arts festival.							0.0
+478	H:	And I wish that people in this area, especially the African Americans that's in fine arts, could get involved with the Black Arts Theater Festival.							0.0
+479	H:	They would learn a lot.							0.0
+480	H:	There's a young man from here named Chip Caffey.							0.0
+481	H:	He has had productions during the time of the Black Arts Festival, and he lives in New York.							0.0
+482	H:	And everything he does is out of New York, not over here.							0.0
+483	W:	So, the church that you went to as a child is still standing.							0.0
+484	W:	Do you still attend that church?							0.0
+485	H:	From time to time.							0.0
+486	H:	They might ask me to come over and speak on a program or something like that.							0.0
+487	H:	I'm a member of a church called Williams Temple Church of God and Christ.							0.0
+488	H:	And this is my home church, as far as the church I grew up in.							0.0
+489	H:	So, when they ask me to do something, I do it, because of the roots anyway.							0.0
+490	H:	My grandmother lived here; I lived here with my grandmother, and it was convenient for her.							0.0
+491	H:	So, she made us go to church, and that's where we went to church.							0.0
+492	H:	And we became connected to that church.							0.0
+493	W:	So religion and faith was very important growing up?							0.0
+494	H:	Mmhm.							0.0
+495	H:	In her house, you had to serve the Lord.							0.0
+496	W:	So, I was wondering if I could ask you a question: when Obama was elected in 2008, what were your thoughts on that?							0.0
+497	W:	Was that something you ever imagined happening when you were growing up?							0.0
+498	H:	You know what?							0.0
+499	H:	"I used to tell people this: one day, a Black man will be President.							"							-1.0
+500	H:	You know, so it didn't shock me.							0.0
+501	H:	Even when I found out that Obama was running for president, I felt like he would win and it was his time.							0.0
+502	H:	It was just our time to have a Black president.							0.0
+503	H:	"And a lot of people are saying now, ""I just had no idea that it would happen in my lifetime."							0.0
+504	H:	""" I never felt that way."							0.0
+505	H:	I never felt that way.							0.0
+506	H:	I always felt that things had to change—especially in the South, you know?							0.0
+507	H:	And it did.							0.0
+508	H:	It happened.							0.0
+509	H:	That was my feeling on that.							0.0
+510	H:	It didn't surprise me.							0.0
+511	H:	It didn't shock me.							0.0
+512	H:	"I knew it'd be, it was his time.							"							-1.0
+513	H:	I just felt that it was his time.							0.0
+514	H:	It was the Black man's time as far as president.							0.0
+515	H:	When Jesse ran, I didn't feel that it was his time.							0.0
+516	H:	Shirley Chisholm, I didn't feel that it was her time.							0.0
+517	H:	"Just like I feel like—now, one thing that I will say: it might not be during my time, that a woman is elected President.							"							-1.0
+518	H: %HB 	"Might not be my time, during my time.							"							1.0
+519	H:	But that's going to happen, too.							0.0
+520	H:	Might as well face it's going to happen.							0.0
+521	H:	Because I feel like there are some women that's qualified to run this country, too.							0.0
+522	H:	Just like I feel like Obama was qualified, there are other Black men out there that's qualified to run it, too.							0.0
+523	H:	Not only him.							0.0
+524	H:	There are a lot of them.							0.0
+525	H:	I think Jesse's even qualified.							0.0
+526	H:	It just wasn't his time.							0.0
+527	H:	I think he ran a little too soon.							0.0
+528	H:	But I thank him for the awakening.							0.0
+529	W:	I don't think Obama would have been elected without the people that came before him.							0.0
+530	H:	Do I think that he would not have been?							0.0
+531	W:	I think that the people who came before him kind of laid the groundwork for—							0.0
+532	H:	It let us know that, hey, it can happen.							0.0
+533	H:	It let us know that.							0.0
+534	W:	So is there anything else about Lincoln that people might not know or that you want people to know?							0.0
+535	W:	It sounded like it was much more than just a high school.							0.0
+536	W:	It was life lessons.							0.0
+537	H:	It was a life preparatory place.							0.0
+538	H:	You know—							0.0
+539	W:	I heard they taught dating etiquette.							0.0
+540	W:	Did you, were you taught how to date?							0.0
+541	H:	"Well, you had courses like Modern Family Living that taught you how to be a respectable individual.							"							-1.0
+542	H:	A part of that,							0.0
+543	H:	yeah: etiquette, mannerisms.							0.0
+544	H:	You got all of that in Modern Family Living.							0.0
+545	H:	And your teachers, you didn't have to wait to get in senior high school in order to take it, because you had teachers that taught that even in the seventh grade.							0.0
+546	H:	In the Home Economics department of things, I felt fortunate because for two years, my homerooms teacher was a Home Economics teacher.							0.0
+547	H:	"And even if we didn't take Home Economics, which we, I never took home economics, she taught us still the little while that she would be with us; she would stress respect, mannerism, ethics, you know.							"							-1.0
+548	H:	So if dating was a part of it,							0.0
+549	H:	yeah,							0.0
+550	H:	they taught you how to date.							0.0
+551	H:	"You know, to be respected, how to respect young ladies.							"							-1.0
+552	H:	It was no such thing that if a man, a student, disrespect a lady, a female student there, it was endorsed by the teachers; no, it was not endorsed by male nor female.							0.0
+553	H:	No.							0.0
+554	H:	That's the kind of teachers that we had at Lincoln.							0.0
+555	W:	Any teachers in particular stand out as—?							0.0
+556	H:	I will never forget Eunice Hightower.							0.0
+557	H:	That was the teacher I was just talking about, the Home Economics teacher.							0.0
+558	H:	I will never forget Jerry Miller.							0.0
+559	H:	They were my favorite teachers.							0.0
+560	H:	Jerry Miller, Eunice Hightower, Ms. Frederica Jones.							0.0
+561	H:	She was my sponsor for three years: tenth, eleventh and twelfth grade.							0.0
+562	H:	And Ms. Jones was the same way.							0.0
+563	H:	"Men had to be men, and ladies had to be, females had to be ladies.							"							-1,-1,-1
+564	H:	And that was the type of homeroom, group of homeroom students, that she required us being.							0
+565	H:	And I really must say, I think one hundred percent of her students, of her homeroom, was that way.							0
+566	W:	And what years were you at Lincoln?							0
+567	H:	I came out at 65, must have come there, what, in 57?							0
+568	H:	No, 59?							0
+569	H:	59, something like that.							0
+570	W:	Is there anything else you wish to add, that maybe I haven't asked, that you, something you'd just like to share?							0
+571	H:	If a person didn't go to Lincoln, they missed a life teaching.							0
+572	H:	Listen:							0
+573	H:	I'm a Terrier.							0
+574	H:	I'll never forget, the spirit of the terrier.							0
+575	H:	And I carry that even though later on I became an Aggie.							0
+576	H:	I'm just a Aggie-Terrier.							0
+577	W:	Sounds like a great place to go to school.							0
+578	H:	Yeah.							0
+579	H:	It's a school that need to come back into existence.							0
+580	H:	It needs to.							0
+581	H:	And when I say that, I say that because of some of the problems that we are facing today in this society, especially with the African Americans.							0
+582	H:	"If the environment of Lincoln could be recreated, it would help us tremendously.							"							-1
+583	H:	It would help this country tremendously.							0
+584	H:	It would help this city tremendously.							0
+585	H:	This county.							0
+586	W:	Do you ever think that will happen?							0
+587	H:	Do I think it will happen?							0
+588	H:	Dreams can come true if you believe it, and I do believe that that can happen.							0
+589	H:	I believe that that should happen.							0
+590	H:	"That that was a mistake made that can be corrected.							"							-1
+591	W:	And now it's Lincoln Middle School?							0
+592	H:	Now it's Lincoln Middle School							0
+593	W:	But it's not the same.							0
+594	H:	Even as a middle school, it's not like the junior high of Lincoln.							0
+595	W:	So when Lincoln closed in 1970, what was the community's reaction?							0
+596	H:	Everything that I know about it, is what I was told, because I wasn't—							0
+597	W:	Because you weren't here, mmhm.							0
+598	H:	Yeah, and they did not want it; I just don't think that the community put forth an effort to fight and maintain it.							0
+599	H:	Because it could have been maintained.							0
+600	H:	Because there were other cities that the same—when the federal government enforced integration in a lot of cities, a lot of those schools refused to close, and they did not close.							0
+601	H:	They went without support, without money and stuff like that, but because they believed in themselves and believed in what they stood for, they didn't close.							0
+602	H:	You see what I'm saying?							0
+603	H:	And I think the same thing could have happened to Lincoln if the people would have believed in themselves a little bit more, been a little stronger than they were.							0
+604	H:	They had a riot and all of that to show some certain appreciation, they reacted to it.							0
+605	H:	But they didn't hold out long enough with what they were feeling.							0
+606	H:	To me, they surrendered too soon.							0
+607	H:	We talk about revolutionizing things, and revolutions, but what we fail to realize is that revolution means standing as that which you believe.							0
+608	H:	And to, by all means, whatever means necessary, in order to make that change, you do it to make that change.							0
+609	H:	And that was during the time of, if one would want to say there was a Black revolution going on, there was a Black revolution going on.							0
+610	H:	But the people in this community, to me, didn't stand as firm as they could have stood, as far as the Black revolution was concerned.							0
+611	H:	They accomplished a lot in other areas, but when it came to their education and their school, they gave in.							0
+612	H:	Because I look at it like this: I can remember when they had the riot in Greensboro.							0
+613	H:	The state had given the University of North Carolina, NC State, and a lot of the other predominantly White universities all this money for the next year, and gave A&T three hundred thousand dollars?							0
+614	H:	No.							0
+615	H:	We did not accept that.							0
+616	H:	And, you know, we went to Raleigh, and we just stood firm.							0
+617	H:	And regardless of what they said, how they said it, we just didn't give in to it.							0
+618	H:	They ended up having to take all the money up and redistributing the money.							0
+619	H:	And that was because we stood so firm.							0
+620	H:	There were other Black state schools in the state of North Carolina that received even less than what we did.							0
+621	H:	That couldn't buy a desk!							0
+622	H:	And during the time that— you had to stand firm.							0
+623	H:	I believe that when you stand firm, you get results.							0
+624	H:	I have a friend who is a chairman of the history department at A&T today.							0
+625	H:	Political Science department.							0
+626	H:	When he was a senior in high school, he ran for president of his high school, Dudley, which was one of the schools that refused to close, during the days of integration.							0
+627	H:	Enforcement of integration.							0
+628	H:	"All right, he ran for president of his student body and the Superintendent didn't want him to be the president based on the fact that he was a member of YOBU/SOBU							"							-1
+629	H:	And they wanted to look at it as an outlaw organization that created problems in the Black community, which was not so: it helped the Black community.							0
+630	H:	It helped students.							0
+631	H:	Okay?							0
+632	H:	And he was not put on the ballot because the superintendent had ordered to the principal not to allow him to run for president of the student body.							0
+633	H:	The students, knowing their rights, wrote in their ballot, their votes.							0
+634	H:	And he won.							0
+635	H:	So the next year, when it was time to install the officers, the students installed him, and the superintendent and the school board did not like that, and they didn't want that, and of course a riot broke out.							0
+636	H:	"The students got very angry when they said he couldn't be president.							"							-1
+637	H:	Then, college students got involved.							0
+638	H:	The Panther party got involved.							0
+639	H:	YOBU/SOBU got involved.							0
+640	H:	Everybody got involved to say							0
+641	H:	": ""This man qualifies to be the president,"" because academically, he qualified."							0
+642	H:	You had to have a certain grade point average.							0
+643	H:	And they stood.							0
+644	H:	That was during the time when when one wanted to say Black revolution was going on.							0
+645	H:	That was during that time, but the people in that community stood fast.							0
+646	H:	"They stood as a group and refused; ""I shall not be moved."""							0
+647	H:	So therefore, we went to jail.							0
+648	H:	We had dogs put on us, water hoses, you know?							0
+649	H:	I could remember when the riot in Greensboro started, which is, you know, got national attention.							0
+650	H:	I was caught in the dormitory, and I went to jail.							0
+651	H:	But I didn't care, because I was standing for something that I felt that was right; which here, oh man!							0
+652	H:	It never would have worked that way.							0
+653	W:	Do you wish you had been here when the—							0
+654	H:	I wish I could have been here during that time, I really do.							0
+655	H:	Because I think I would have had the same attitude about standing as I have now.							0
+656	H:	"And I would have been one of the ones that would have refused to be quiet.							"							-1
+657	H:	I'd have been voicing my opinion.							0
+658	H:	I'd have been trying to organize.							0
+659	H:	I'd have been trying to do a lot as far as maintaining Lincoln High School: a place that I had lived, many, many years, looked forward to, went there, felt that I had benefitted from it, and then you going to take it away, to say it no longer exists?							0
+660	H:	I just don't feel like I would have just been one of the ones that sit back and just let it happen, saying, you know, don't want to get involved, don't want no trouble.							0
+661	H:	Couldn't have felt that way.							0
+662	H:	Couldn't have felt that way.							0
+663	H:	There's one thing that I will say: being around those type of people that I was around in Greensboro, I don't regret it at all.							0
+664	H:	"I think it helped me to be a strong soldier, as far as survival in this struggle, as far as this struggle is concerned.							"							-1
+665	W:	When you were facing the dogs, and the water hoses, and being arrested, what did that make you feel like?							0
+666	H:	Well, I knew that I was doing something that was worthwhile, that it was a good cause, and stuff like that.							0
+667	H:	And sending a message, a positive message.							0
+668	H:	I didn't care about it.							0
+669	H:	You know, take me to jail.							0
+670	H:	When I feel like, when I'm right, and you going to take me to jail because I'm right, take me to jail.							0
+671	W:	How long did they hold you in jail?							0
+672	H:	I think I was, I might have been in jail for about two or three days?							0
+673	W:	What was that like?							0
+674	H:	Oh, it was miserable, though!							0
+675	H:	Because they ran out of space for the students, and there was like—  You know, it was just hard, it was just very difficult.							0
+676	H:	But if I had to go through it again, I'd go through it.							0
+677	W:	"So at no time when you were in jail you thought, ""I shouldn't have done this?"""							0
+678	H:	No.							0
+679	H:	"I was angry like a lot of the other ones that was angry that this society had to be so—could have so much ills about it.							"							-1
+680	H:	"Wanted the changes to be made, because I knew it was good changes.							"							-1
+681	H:	I wrote a play, and I based it on what I had learned about the sit-in demonstration, in order to teach behavior strategies to my cadets, called The Greensboro Four.							0
+682	H:	And I taught them the play.							0
+683	H:	And we performed the play, the play one time, at Metcalfe, and other than that, I just use it for behavioral teaching.							0
+684	H:	"To let them know that regardless of what kind of pressure you might be under, something good can come out of it.							"							-1
+685	H:	Something good came out of that.							0
+686	H:	And that you don't have to pitch bricks, and throw rocks, and shoot 'em up bang-bang in order to get it done.							0
+687	H:	Your weapon is this: your head, your mind, your brain.							0
+688	H:	How to use it.							0
+689	H:	Those are your bullets.							0
+690	W:	Did you ever—with the play that you wrote, do you still use it as a teaching tool?							0
+691	H:	From time to time.							0
+692	H:	I was thinking about this summer, pulling it out and using it again, because I saw it helped some students, that are now juniors and seniors in high school.							0
+693	H:	"And I was like, ""Hey I need to go back and do this again."							0
+694	H:	""" Just to see that they maintain certain things, as far as not getting in trouble, knowing how to make decisions when you're angry, how to make the best decision, because sometimes we make wrong decisions when we angry."							0
+695	H:	Out of anger, you can make a decision and it's the wrong choice, wrong decision.							0
+696	W:	Not always thinking with a clear head.							0
+697	H:	Yeah.							0
+698	H:	I will say that that's what SOBU/YOBU taught me.							0
+699	H:	Even when you're angry, you still got to have some common sense.							0
+700	W:	Anything else you to add, maybe I haven't asked you something you want to share?							0
+701	H:	I can't think of anything.							0
+702	H:	Where I lived, what I lived for, what you just—							0
+703	W:	So this neighborhood you grew up, I would assume it's changed a lot?							0
+704	H:	Yeah, it's changed a lot.							0
+705	W:	Anybody that you grew up with still live here?							0
+706	H:	No.							0
+707	W:	No?							0
+708	H:	No.							0
+709	H:	"There used to be houses back there.							"							-1
+710	H:	They aren't there, as you see.							0
+711	W:	Just empty lots now.							0
+712	H:	Mmhm.							0
+713	H:	And then, I can remember when there was a house back there.							0
+714	H:	I just recently reunited with the family that, one of the families, the very first family we met when we moved over there, the Joneses.							0
+715	H:	The family that lived behind us, I just recently reunited with them, you know, didn't think that they were nowhere around.							0
+716	H:	Didn't ever know what happened to them after they moved out of the neighborhood.							0
+717	H:	Well of course, down there, those houses down there don't stand anymore, there's a few of them.							0
+718	H:	It's nobody else.							0
+719	W:	And now you have a bank next door.							0
+720	H:	Yeah, now we have a bank next door.							0
+721	H:	"Before the bank, it used to be the Chevrolet Company here.							"							-1
+722	H:	When I left, the post office was a grocery store, and this was a car dealership.							0
+723	H:	We were sitting in the midst of a car dealership.							0
+724	W:	Did the city every try to get you to move?							0
+725	H:	Yeah they—no, not really.							0
+726	H:	They hadn't really put any pressure on us about moving.							0
+727	H:	The man that used owns, that used to own all of this land, Mr. Davis, he was always good about protecting others far as living was concerned.							0
+728	H:	"There used to be a house next door.							"							-1
+729	W:	"There used to be houses back here, where now it's all woods.							"							-1
+730	W:	A lot of kids in the neighborhood?							0
+731	H:	Oh yeah, this neighborhood had a lot of children in it.							0
+732	H:	"Our backyard used to be so packed in the evening time, you would have thought you was at a recreation center.							"							-1
+733	H:	But everybody was well-behaved.							0
+734	H:	There was no fighting, or arguing.							0
+735	H:	My grandmother didn't play that.							0
+736	H:	And all of the kids in the neighborhood knew that; even though times were different then, children played together.							0
+737	H:	They had their differences, they just had their differences.							0
+738	H:	Parents didn't get into it to size up this, that, or the other.							0
+739	H:	They just believed that you've got to get along.							0
+740	H:	We were close-knitted neighborhood, children growing up.							0
+741	H:	I just recently had one of my buddies from the neighborhood, to come and speak at Flossie McLendon Drill Team's banquet.							0
+742	H:	He's the chairman of the—he the one that's the chairman of the business department at Bethune Cookman.							0
+743	H:	He was from this neighborhood, and a lot of us did do pretty good.							0
+744	H:	I mean, we didn't—. I'll put it like, we can produce, the ones that's from this neighborhood.							0
+745	W:	Did he Lincoln as well?							0
+746	H:	He went to Lincoln.							0
+747	H:	Graduated in 66.							0
+748	H:	Mmhm.							0
+749	W:	So a year after you?							0
+750	H:	A year after me, yeah, mmhm.							0
+751	H:	There were other members, other people.							0
+752	H:	I ain't go down that line and, you know, name people, tell you what they doing.							0
+753	H:	"I'm just proud to be from this neighborhood.							"							-1
+754	H:	But time separated us.							0
+755	H:	Life, being  separated us.							0
+756	H:	"But this was a good neighborhood, and it didn't have a reputation for bad kids at all—if it's any such a thing called ""bad kids."							0
+757	H:	""" The adults in this neighborhood were, even though I was living here with my grandmother, I could be disciplined by someone down there, or from over here, or from over there, if I got off on the wrong track."							0
+758	H:	See what I'm saying?							0
+759	W:	Like community parenting.							0
+760	H:	Yeah.							0
+761	H:	Who was it, Hillary, that said it takes a—							0
+762	W:	It takes a village.							0
+763	H:	To raise a child.							0
+764	W:	To raise a child.							0
+765	H:	That's true.							0
+766	H:	And I'm from this village.							0
+767	H:	And it took this village to mold a lot of us, and we accept that.							0
+768	W:	I think it worked.							0
+769	H:	It worked.							0
+770	H:	It worked.							0
+771	W:	How did you guys get to school?							0
+772	H:	We walked.							0
+773	H:	They talk about busing, today.							0
+774	H:	I walked from here to 7th Avenue many mornings in the rain, in the cold.							0
+775	H:	Then, to get to Lincoln, which was real crazy, I used to have to walk from here to 7th, NW 7th Avenue, in order to go over in the Southeast side of town to Lincoln.							0
+776	W:	That's not a—that's a long walk.							0
+777	H:	"And then, they say, ""Well, okay, let's make it easy for them."							0
+778	H:	""" I walk from here down to a place, a little store down there called Setzer's, it used to be called Setzer's."							0
+779	H:	Now it's where the CVS is.							0
+780	H:	Okay, and that was where we caught the bus in order to go to Lincoln.							0
+781	H:	And then, who cared about busing and being bused?							0
+782	H:	Some mornings, me and my friends, we would get together as a group and we would walk all the way to Lincoln.							0
+783	H:	And didn't mind doing it.							0
+784	H:	"And would be on time to school.							"							-1
+785	W:	How long of a walk was that?							0
+786	H:	From here to Waldo road, to where Lincoln Middle School is.							0
+787	W:	That's a long distance!							0
+788	H:	Yeah.							0
+789	H:	Well, and then, too, it kept us in shape							0
+790	H:	and then we didn't mind doing that.							0
+791	H:	Because if you played football, or if you was in the band, that was an afterschool thing, so you had to walk home anyway.							0
+792	W:	No buses were running after school?							0
+793	H:	No buses were running after school.							0
+794	W:	Were these school buses or were they city buses?							0
+795	H:	School buses.							0
+796	H:	Remember, we haven't always rode the city buses.							0
+797	W:	You couldn't ride the bus back then?							0
+798	H:	I done forgot when the bus system was integrated, but we never really wanted to ride the city bus as children.							0
+799	H:	Maybe the adults did, but I can't remember as a child wanting to ride the city bus, or having to ride the bus to do things.							0
+800	H:	I had a bicycle, and in the seventh grade I enjoyed riding my bike to school.							0
+801	H:	So that's how I got to school in the seventh grade over at Lincoln.							0
+802	H:	I rode my bike to school.							0
+803	H:	So busing, this thing about busing and stuff, like, never was appealing to me, because it was always crazy, except when they moved it to Setzer's.							0
+804	H:	Want to ride the bus to Setzer's.							0
+805	H:	Nothing was wrong with walking from here to where CVS is to catch the bus.							0
+806	H:	Nothing was wrong with that.							0
+807	H:	But to walk from here to A Quinn Jones, to catch the bus, to go over here; that was crazy to me.							0
+808	H:	Didn't make sense.							0
+809	H:	But I did it, because that was what it called for.							0
+810	W:	Were there any other high schools in the area that you could've gone to, or was Lincoln the option at the time?							0
+811	H:	Lincoln was the only place I could go because I was Black.							0
+812	H:	The first African Americans didn't go to GHS until 1965.							0
+813	W:	Wow.							0
+814	W:	It's definitely a long way to go school, but, it was a place worth going to.							0
+815	H:	Yeah and that was nothing, because look at people that lived in Fairbanks: they had to come all the way from Fairbanks over here.							0
+816	H:	From Archer.							0
+817	W:	How many people were in your graduating class?							0
+818	W:	How many kids?							0
+819	H:	My graduating class?							0
+820	W:	"They had to be about a hundred and thirty five, somewhere like that.							"							-1
+821	W:	So, pretty small class.							0
+822	H:	Pretty small.							0
+823	H:	Compared to—well, it was probably one of the largest classes that came out of Lincoln during that time.							0
+824	H:	But after then, the classes were bigger than that.							0
+825	W:	Most kids finish, or how was the?							0
+826	H:	Yeah, most kids finished.							0
+827	H:	I don't think the dropout rates was high at all at Lincoln.							0
+828	H:	Back in them days, you didn't drop out of school.							0
+829	H:	And you wasn't put out of school like they do now.							0
+830	H:	Or to say you can't go back to school in Alachua County anymore, anywhere.							0
+831	H:	You know, it wasn't like that then.							0
+832	H:	So the dropout rate was no outstanding rate.							0
+833	H:	You went to school.							0
+834	H:	And then you have to think about the fact that young people, it wasn't that many young people in Gainesville at the time.							0
+835	H:	So going to school, the population of Blacks wasn't as great as it is now.							0
+836	H:	Lincoln would probably now, I'd say, have classes of four and five hundred students to graduate, if it was still around.							0
+837	W:	Maybe it will come back.							0
+838	H:	Let's hope so.							0
+839	H:	Let's hope so.							0
+840	H:	As Lincoln, a school that would serve the community.							0
+841	H:	As Lincoln.							0
+842	W:	Is there anything else you wish to add?							0
+843	H:	No, no.							0
+844	H:	I think I done said it all now.							0
+845	W:	Okay, well I appreciate your time.							0
+846	W:	I'm very fascinated.							0
+847	H:	So, what is this project, again?							0
+848	W:	It's the oral history project at University of Florida.							0
+849	W:	And what's going to happen is, there's twelve or thirteen people in my class, and they're all interviewing people like yourself who went to Lincoln.							0
+850	H:	"And all your interviews are going to be archived so anybody can access them from as long as University of Florida exists.							"							-1
+851	H:	"So, your story will be heard, and people will, if they want to know what Lincoln was like back when you went to school, they can listen to you interview, and get a sense of what Lincoln was like, and what Gainesville was like, and learn about your life.							"							-1
+852	W:	And so, what we'll do is, I have a form here for you to sign, just saying that you will allow us to use the interview.							0
+853	W:	And then, you will get a copy of the interview, or as many copies as you want if you want to share them with friends, family.							0
+854	W:	And we'll send you a copy of the transcript, too, if there's anything that you wish to—							0
+855	H:	Delete?							0
+856	W:	Delete, or—							0
+857	H:	I don't think I'll—							0
+858	W:	Or make changes or anything like that.							0
+859	W:	I'll get you a pen here.							0
+860	H:	Got a pen?							0
+861	W:	Yes, sir.							0
+862	W:	And today's June 7th.							0
+863	W:	June 7th?							0
+864	W:	June 8th.							0
+865	W:	June 8th.							0
+866	W:	Tuesday.							0
+867	H:	June 7th?							0
+868	W:	I believe it's June 8th.							0
+869	W:	Yes, June 8th, Tuesday.							0
+870	W:	"Yeah, if you could just fill in your address, then we'll go in and be able to mail you—.							"							-1
+871	W:	Okay.							0
+872	W:	I thank you very much.							0
+873	W:	Pleasure to meet you.							0

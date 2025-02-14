@@ -1,0 +1,1736 @@
+	speaker	text	nullCopula	personNumberAgreement	multipleNegators	existentialItDEY	perfectDone	remotePastBIN	habitualBe
+0	L:	So, okay are we ready to start?							0.0
+1	L:	Yes?							0.0
+2	S:	Okay.							0.0
+3	L:	My name is Lauren Leib—this is for the recorder.							0.0
+4	L:	I'm here with Ms. Margaret Sharpe, in her home.							0.0
+5	L:	It's June 16, 2010.							0.0
+6	L:	So I'm just going to ask you some questions.							0.0
+7	S:	Okay.							0.0
+8	L:	All right.							0.0
+9	L:	Are you okay?							0.0
+10	S:	Yes, I'm fine.							0.0
+11	L:	It's the oral consent!							0.0
+12	S:	Yes.							0.0
+13	L:	Great, well let's begin.							0.0
+14	L:	So starting off, what was your early childhood like?							0.0
+15	L:	Did you grow up in Gainesville?							0.0
+16	S:	No, I grew up about ten miles from here, partly in Rochelle.							0.0
+17	L:	Rochelle.							0.0
+18	L:	Was that a small town?							0.0
+19	S:	Yes, it was just a little country place.							0.0
+20	S:	Part of it.							0.0
+21	S:	And let's see, sixth, seventh, and eighth grade I went to Rochelle Elementary.							0.0
+22	L:	Rochelle?							0.0
+23	S:	Mmhm, but first through fifth grade, going into sixth, I went to Dillard in Ft. Lauderdale.							0.0
+24	L:	Oh, Ft. Lauderdale!							0.0
+25	L:	Where were you born?							0.0
+26	S:	I was born in Rochelle.							0.0
+27	L:	Rochelle.							0.0
+28	L:	And then you moved down to Ft.							0.0
+29	L:	Lauderdale for a little bit?							0.0
+30	S:	Yeah, with my grandmother.							0.0
+31	L:	Your grandmother?							0.0
+32	S:	My grandmother raised me, and she lived there, and she was working for the airbase down there.							0.0
+33	L:	The airbase?							0.0
+34	L:	What was her job?							0.0
+35	S:	She was like, I guess one of the maids, you know, that kept things good.							0.0
+36	S:	I'm not really sure.							0.0
+37	S:	I never really asked.							0.0
+38	S:	But I'm sure that was some part of what she was doing.							0.0
+39	L:	Well, you moved with your grandmother when you were in first grade down to Ft. Lauderdale?							0.0
+40	L:	Why did you—?							0.0
+41	S:	Move down there?							0.0
+42	S:	Because, well I was left in Rochelle, and then my grandmother moved to Ft. Lauderdale.							0.0
+43	S:	And while I was in Rochelle, I was with this aunt and uncle, that aunt and uncle, and I was with another family.							0.0
+44	S:	They wasn't my aunt and uncle, but we all called her Momma Hattie and her husband Uncle Joe.							0.0
+45	S:	So, between the three; so my grandmother just got tired of it, and she decided to move me to Ft. Lauderdale.							0.0
+46	S:	So, she did.							0.0
+47	L:	So did you have any siblings?							0.0
+48	S:	One.							0.0
+49	L:	One sibling.							0.0
+50	L:	And did she move—your sister?							0.0
+51	S:	Yeah, she finally—we left her in Rochelle, but then my grandmother decided she didn't wanted us separated.							0.0
+52	S:	So she was there, too.							0.0
+53	L:	Kind of keep the family together?							0.0
+54	S:	Yup, we all came back.							0.0
+55	L:	What was your sister's name?							0.0
+56	S:	Agnes Cooper Scott.							0.0
+57	L:	Do you mind I asking—were your parents, did they—?							0.0
+58	S:	Okay, well my mother, she and my dad was married.							0.0
+59	S:	And then, he was working on what they call the section cars.							0.0
+60	S:	I guess he did the cooking or something for the people that worked on the railroad.							0.0
+61	S:	And after I was nine months old, he gave me to my grandmother.							0.0
+62	S:	So, my mother told me that she tried to take my sister and myself, but my grandmother wouldn't let us go.							0.0
+63	S:	So she just went on and went her way, and then we was left there.							0.0
+64	S:	So my sister stayed with her dad's mother, and I was with different other people.							0.0
+65	S:	So, finally my grandmother decided to put both of us together, and so that's what happened.							0.0
+66	S:	We both lived together until she had to move back to Rochelle to take care of her father.							0.0
+67	S:	So that's when we moved back to Rochelle.							0.0
+68	S:	And I went to school sixth, seventh, eighth grade.							0.0
+69	L:	Oh, okay.							0.0
+70	L:	So when did you first attend Lincoln High School?							0.0
+71	S:	Ninth grade.							0.0
+72	L:	Ninth grade?							0.0
+73	S:	Uh-huh, the term of 46-47.							0.0
+74	L:	So you went from 1946 to 1947?							0.0
+75	S:	That was the first year.							0.0
+76	L:	Oh, okay!							0.0
+77	L:	The first school year.							0.0
+78	S:	That was the first term.							0.0
+79	S:	Ninth grade.							0.0
+80	S:	The term of 46 and 47 was ninth grade; 47-48, tenth; 48-49, eleventh; 49-50.							0.0
+81	L:	To 50, 1950?							0.0
+82	L:	That's an easy year to remember, isn't it?							0.0
+83	S:	Uh-huh.							0.0
+84	S:	Yeah, I graduated in 1950, yeah.							0.0
+85	L:	How did you like Lincoln?							0.0
+86	S:	Fine.							0.0
+87	L:	Yeah?							0.0
+88	S:	It was really nice.							0.0
+89	S:	It was—my first year, I lived over here.							0.0
+90	S:	"My grandmother's goddaughter—I was going to go to Shell High School, in Hawthorne, but my grandmother says, ""Now Margaret, you know you're not going to live down there."							0.0
+91	S:	"I'm not going to let you stay."""							0.0
+92	S:	And she—and they took their own dear time by letting us know that they was going to have somebody to drive the bus.							0.0
+93	S:	They waited until the last minute, so my grandmother called her goddaughter and asked her if she could find me a place.							0.0
+94	L:	A place to—?							0.0
+95	S:	Over here to stay.							0.0
+96	L:	So you could go to Lincoln?							0.0
+97	L:	There were buses that took—that transported to the other school?							0.0
+98	S:	Mmhm.							0.0
+99	S:	Finally, yeah.							0.0
+100	S:	From Rochelle to—she picked up in Windsor, Rochelle, Grove Park to Rochelle.							0.0
+101	L:	Rochelle?							0.0
+102	L:	And then you went to Lincoln?							0.0
+103	L:	So, what was a normal class day like at Lincoln?							0.0
+104	L:	What time did it start, early morning?							0.0
+105	S:	Like eight o'clock in the morning.							0.0
+106	S:	I think we went to school from like eight to three or something like that, and we had like, five or six classes a day.							0.0
+107	S:	Yeah.							0.0
+108	L:	What were the classes like?							0.0
+109	L:	Was it like basic social studies and math and—?							0.0
+110	S:	Science.							0.0
+111	S:	We had all of those.							0.0
+112	S:	Our science teacher, Mr. Franklin Jones—that was our one o'clock class.							0.0
+113	L:	Mr. Franklin Jones?							0.0
+114	S:	Yeah.							0.0
+115	S:	And he didn't call us by name.							0.0
+116	S:	"He called, ""Row by numbers please!"""							0.0
+117	L:	Oh really?							0.0
+118	S:	And my number was eight.							0.0
+119	S:	"Sometimes I'd be thinking about something else I'd be doing, and he'd say, ""Eight!"""							0.0
+120	S:	"I say ""Eight!""  Just like that, and that's what I would do."							0.0
+121	S:	"And he says, ""You're absent!"""							0.0
+122	S:	"""No, Mr. Jones, I'm right here looking right at you."							0.0
+123	S:	"I'm not absent."""							0.0
+124	L:	"Right where ""eight"" should be!"							0.0
+125	S:	And it was a fun class.							0.0
+126	S:	I enjoyed his science class; it was really nice.							0.0
+127	L:	Was he a good teacher?							0.0
+128	S:	Yeah.							0.0
+129	S:	And my ninth grade English teacher was Ms. Burgess.							0.0
+130	L:	Ms. Burgess?							0.0
+131	S:	Yes, and she was from—Arizona, I believe?							0.0
+132	S:	I think that's where she was from.							0.0
+133	S:	She was really a nice teacher, a very nice teacher.							0.0
+134	S:	"And she would tell us, ""Make sure you slur your letters. '"							0.0
+135	S:	"Arrr,' 'Esss.'"""							0.0
+136	L:	"And she'd be doing all this kind of stuff in the class							"							-1.0
+137	S:	but she want you to make sure you slur.							0.0
+138	S:	But she was very good.							0.0
+139	L:	Really?							0.0
+140	S:	Very good.							0.0
+141	L:	Good—							0.0
+142	S:	Oh yes, all the teachers.							0.0
+143	L:	Pretty involved?							0.0
+144	S:	Yes.							0.0
+145	L:	Okay.							0.0
+146	S:	And my—I had Civics in ninth grade, so that was Mrs. Nealy.							0.0
+147	S:	She was a sweet lady, too.							0.0
+148	L:	Nealy?							0.0
+149	S:	Nealy, uh-huh.							0.0
+150	S:	Mrs. Nealy.							0.0
+151	S:	N-E-A-L-Y							0.0
+152	L:	N-E?							0.0
+153	S:	A-L-Y							0.0
+154	L:	Okay.							0.0
+155	L:	What was Civics class like?							0.0
+156	S:	It was like, you learned about the government, all that kind of stuff.							0.0
+157	S:	And she was very good at teaching that, so we could learn, you know, know about the United States, the whole thing, like how the government was run and all like that.							0.0
+158	L:	And that was, in what year did you have that Civics class?							0.0
+159	S:	Ninth grade.							0.0
+160	L:	Ninth grade.							0.0
+161	L:	So in like 1946-1947, you're in Civics class, and if—with Lincoln being an all-Black high school, and it being segregated, I mean, how—what was that like learning about like American government, and, you know, your rights as a citizen when you didn't necessarily have the equal facilities and stuff?							0.0
+162	L:	Was that kind of—I mean, was that kind of a hard class to kind of come to terms with, knowing—?							0.0
+163	S:	No, because the way she, you know the way she taught it and everything like that—the only thing to me was really hard when I first came over because we never had new books.							0.0
+164	S:	It was always somebody else had had them.							0.0
+165	S:	A lot of the pages were torn out.							0.0
+166	S:	But they made our classes enjoyable—whether we had all the right material.							0.0
+167	S:	Because back there, I would say, those teachers really put their heart and soul in it.							0.0
+168	S:	And what they brought to the children at school was what they had really learned in college.							0.0
+169	S:	And so, it was really a good learning experience.							0.0
+170	S:	They really made it fun enough for you to really enjoy it, and so it was really enjoyable.							0.0
+171	S:	My teachers were—and my math teacher, that was my favorite subject.							0.0
+172	L:	Really?							0.0
+173	L:	Oh, math!							0.0
+174	S:	Oh yeah,							0.0
+175	S:	I loved math!							0.0
+176	S:	I really did.							0.0
+177	S:	Because when I was growing up, my grandmother, she had us doing the timetables.							0.0
+178	S:	And we used to get—well, the insurance people used to come by your house, and they had this little composition—little tablet, and it had the timetables on the back.							0.0
+179	S:	And they would always bring those by so we could learn your tables and everything.							0.0
+180	S:	So when I got to school, I already knew my stuff, because my grandmother insisted on you doing it and learning it well.							0.0
+181	S:	So math was really good.							0.0
+182	S:	I really enjoyed doing math.							0.0
+183	S:	And like I say; English was fine.							0.0
+184	S:	Civics was fine.							0.0
+185	S:	Math was great.							0.0
+186	L:	Math was great.							0.0
+187	L:	I can't believe it.							0.0
+188	S:	Science.							0.0
+189	S:	I liked science because we did a lot of experiments.							0.0
+190	S:	We dissected different things.							0.0
+191	S:	We had a little pond that went right in the back of the school and we would go down there.							0.0
+192	S:	We caught an electric eel one time.							0.0
+193	S:	We dissected it.							0.0
+194	L:	You caught one?							0.0
+195	L:	You caught an electric eel?							0.0
+196	S:	Yeah we caught it, he put it in formaldehyde and everything.							0.0
+197	S:	Yeah, so—we just learned to do all kind of stuff.							0.0
+198	S:	Like I'm saying, although we were segregated, but those teachers were so into us; I mean, they really wanted you to learn as well as you could, and we did.							0.0
+199	S:	We really did.							0.0
+200	S:	It was really great.							0.0
+201	S:	I wouldn't change that experience going to Lincoln, an all-black—because when I went to college, I went to Florida A&M, and it was all Blacks.							0.0
+202	S:	So when I finally went to Santa Fe, it was the first time I ever went to school with Whites.							0.0
+203	L:	Really?							0.0
+204	L:	So when did you go to Florida A&M?							0.0
+205	L:	What year?							0.0
+206	S:	53 and 54.							0.0
+207	L:	And then you went to—?							0.0
+208	S:	Then I got married and had my kids, and I went back to school after I had my four kids.							0.0
+209	L:	Wow.							0.0
+210	S:	And got my RN degree.							0.0
+211	L:	Oh, so you're a nurse.							0.0
+212	S:	Yes.							0.0
+213	L:	Oh my sister's a nurse.							0.0
+214	L:	Wow!							0.0
+215	L:	So you—							0.0
+216	S:	And I got in at Santa Fe.							0.0
+217	S:	Graduated in 1973.							0.0
+218	L:	Wow, 1973.							0.0
+219	L:	So—oh, there's a bunch of questions I want to ask you!							0.0
+220	L:	Oh, man!							0.0
+221	L:	So, you graduated from Lincoln—							0.0
+222	S:	Yes.							0.0
+223	L:	And then you went to Florida A&M for nursing—							0.0
+224	S:	No.							0.0
+225	L:	Oh?							0.0
+226	S:	This was going for education.							0.0
+227	S:	But then I stopped and I got married.							0.0
+228	S:	I just went that one term, and I got married.							0.0
+229	L:	"Then after I had my children, I decided—I always wanted to be a nurse.							"							-1.0
+230	S:	And I decided that I was going to go.							0.0
+231	S:	"And then I says, ""Oh, I don't know if I can study."							0.0
+232	S:	""" You know, I wasn't sure whether I could really keep up."							0.0
+233	S:	But I did.							0.0
+234	S:	I went.							0.0
+235	S:	Graduated.							0.0
+236	S:	So, I felt really, really good about that.							0.0
+237	L:	That's a—I mean that's a big accomplishment.							0.0
+238	L:	I mean, nursing is—							0.0
+239	S:	Yeah, I had all my kids.							0.0
+240	S:	And they were very good kids.							0.0
+241	S:	Because I'd have my bed, and I'd leave, you know, your books open to a certain page or something?							0.0
+242	S:	And they would, like the yellow stamps, like you go to the grocery store, and they was giving those yellow stamps and everything?							0.0
+243	S:	So I saved up the stamps, bought me a card table.							0.0
+244	S:	Got a card table with the stamps.							0.0
+245	S:	And a chair.							0.0
+246	S:	That was my desk.							0.0
+247	S:	And my bed was where I would lay everything out, and—							0.0
+248	L:	And study?							0.0
+249	S:	Yes, yes, yes!							0.0
+250	S:	Because I only—and I do that, well I did it from a child: I sleep on one side of the bed, because when I was growing up I used to get out of bed and make my bed up right quick before I'd leave the room.							0.0
+251	S:	So I still sleep on one side of the bed, and always have a whole lot of other stuff on one side of the bed.							0.0
+252	S:	So, that's what I do.							0.0
+253	S:	"And I says, now you—they say, ""Yeah you can come over, but Mother's room is off limits."							0.0
+254	S:	"You cannot go because she's got all of her homework and different stuff on her bed, and it better be just like she left it."""							0.0
+255	L:	Cause Momma will know!							0.0
+256	S:	Right.							0.0
+257	L:	So what was your husband's name?							0.0
+258	S:	His—well, we had gotten a divorce.							0.0
+259	L:	Oh, a divorce.							0.0
+260	S:	Yeah.							0.0
+261	S:	His name was Willie Joe Knight—that was my first husband, but then I married my second husband in 1968, and he died in 1974.							0.0
+262	L:	I'm sorry.							0.0
+263	S:	So, they both are dead.							0.0
+264	S:	My children's father is dead, and he's dead.							0.0
+265	L:	And you have four children?							0.0
+266	S:	Yeah.							0.0
+267	L:	What are their names?							0.0
+268	S:	Karron.							0.0
+269	S:	K-A-R-R-O-N Knight Thomas.							0.0
+270	L:	Karron Knight Thomas?							0.0
+271	S:	Mmhm.							0.0
+272	S:	And Linda Jean Knight Baker, Michael Tyrone Knight, and Larry Shawn Knight.							0.0
+273	S:	I had five kids, but my fifth child only lived four and a half hours.							0.0
+274	L:	Oh, I'm so sorry.							0.0
+275	S:	He was born premature.							0.0
+276	L:	Premature.							0.0
+277	S:	That's what the doctor said.							0.0
+278	S:	"So I says, ""Okay, that's what he said."							0.0
+279	S:	""" He only live four and a half hours."							0.0
+280	S:	But, I have those four.							0.0
+281	L:	And they're good kids.							0.0
+282	L:	Obviously a great mother.							0.0
+283	L:	So—							0.0
+284	S:	So, we had a lot of stuff.							0.0
+285	S:	Okay, my first year I played basketball; I loved that.							0.0
+286	S:	That was ninth grade.							0.0
+287	S:	"I played basketball, but you had to—and my grandmother say, ""Oh no, you won't be staying over for practice!"""							0.0
+288	S:	Because the next year, my sister had finished the eighth grade and she started ninth grade.							0.0
+289	S:	So, my grandmother would bring us up to the—I think it was the sheriff house.							0.0
+290	S:	Well, the city bus would turn around there.							0.0
+291	S:	So we could catch the city bus, so you put your—a quarter would give you three tokens.							0.0
+292	S:	So you could ride the city bus for a token.							0.0
+293	S:	Put one in, and you take a quarter, you get three.							0.0
+294	S:	So that's what we, my sister and I, would do.							0.0
+295	S:	We'd ride the bus.							0.0
+296	S:	Then after that, my grandmother, she started bringing us—driving her car and bringing us to school.							0.0
+297	S:	So.							0.0
+298	S:	She was working over here, and where I first lived with my Home Economics teacher.							0.0
+299	L:	You lived with your Home Economics teacher?							0.0
+300	S:	Yes, I did.							0.0
+301	S:	That's I where I first—she taught Home Economics.							0.0
+302	S:	And I lived with her and her mother.							0.0
+303	S:	And in the afternoon, when we both were going, I was in tenth							0.0
+304	S:	and she was in ninth, we came to her house and wait for my grandmother to pick us up after we get out of school.							0.0
+305	S:	We would walk from the school to her house—which, it wasn't far.							0.0
+306	L:	What was your Home Economics teacher, what was her name?							0.0
+307	S:	Louis Hill.							0.0
+308	L:	Louis Hill?							0.0
+309	L:	And so you stayed with her?							0.0
+310	S:	Her and her mother the first year, which was the term of 46 and 47.							0.0
+311	S:	And I still was with them, because we walked backwards and forth to their home to wait for my grandmother to come by and pick us up.							0.0
+312	S:	So we had a place to stay once we got out of school.							0.0
+313	L:	Right, right, to wait for your grandmother.							0.0
+314	S:	So we couldn't get into any trouble, you understand?							0.0
+315	S:	"We had a certain time to be from the school to their house.							"							-1.0
+316	S:	So, we did that.							0.0
+317	L:	Was that common?							0.0
+318	L:	I mean, teachers—I mean, so they were really involved, then.							0.0
+319	S:	Yes!							0.0
+320	S:	Yes!							0.0
+321	S:	We had a lot of teachers was—they were really involved with the students.							0.0
+322	S:	I mean even professor A Quinn Jones; I mean, he was very good.							0.0
+323	S:	TB McPherson.							0.0
+324	S:	And when I was in school, they let the veterans that had gone to school come back and go to school with us in the daytime.							0.0
+325	S:	And my sister's class was the last class they let the veterans come and go to school in the daytime.							0.0
+326	S:	They had to start going, after her class graduate, they had to start going to school at night.							0.0
+327	L:	After hours.							0.0
+328	L:	So they were the veterans in World War II that came back?							0.0
+329	S:	Mmhm, yeah.							0.0
+330	L:	And they hadn't finished high school, or were they like—?							0.0
+331	S:	No, they hadn't finished high school, but I guess they was old enough to go into the Service, and they went into the Service, and they came back, finished high school, played football.							0.0
+332	S:	We had the best football team.							0.0
+333	S:	It was.							0.0
+334	S:	And we had a great basketball team, boys' and girls' basketball.							0.0
+335	S:	So it was very good.							0.0
+336	S:	We had a tennis court in the front of the school.							0.0
+337	S:	We had the basketball court, which was a clay court, was in the back of the school.							0.0
+338	S:	And we played football.							0.0
+339	S:	It was called Harris Field at first, and then they changed it to Citizen Field.							0.0
+340	S:	But that's where the boys would play football.							0.0
+341	L:	Yeah.							0.0
+342	L:	What were the football games like?							0.0
+343	L:	Did you go to many of them?							0.0
+344	S:	Oh, yes.							0.0
+345	S:	Yes, I attended practically all our football games.							0.0
+346	S:	We'd have a teacher, she'd come and pick us up or whatever.							0.0
+347	S:	I mean, we—that's the kind of teachers we had, because we wanted to go to a movie.							0.0
+348	S:	"And Ms. Harper says, ""Ms. Hall, I'll pick the girls up and take them to the movie."""							0.0
+349	S:	And she did.							0.0
+350	S:	I mean it was just— they was just—and you wouldn't believe, these was really grown men.							0.0
+351	S:	"If TB McPherson, the coach, would see them walking down the streets after night: ""What are you doing?"""							0.0
+352	S:	"""Uh, sir, I'm on my way home."							0.0
+353	S:	I just got off from work.							0.0
+354	S:	I 'm on my way home.							0.0
+355	S:	""" I mean, they were so mannerable!"							0.0
+356	S:	I mean, like the kids these days?							0.0
+357	S:	We didn't have that.							0.0
+358	S:	No.							0.0
+359	S:	They was very respectable.							0.0
+360	S:	They respected their teachers.							0.0
+361	S:	They did really good.							0.0
+362	S:	And like, we had—I think it was Monday, Wednesday and Friday, we had chapel.							0.0
+363	S:	On Mondays, Wednesdays, and Fridays.							0.0
+364	S:	So they had a minister to come in.							0.0
+365	L:	At school?							0.0
+366	S:	Mmhm.							0.0
+367	S:	Yep.							0.0
+368	L:	Monday, Wednesday, and Friday?							0.0
+369	S:	Monday, Wednesday, and Friday.							0.0
+370	S:	He was there, say, like eleven o'clock?							0.0
+371	S:	For thirty minutes.							0.0
+372	S:	He was there for thirty minutes, and then we would go to lunch.							0.0
+373	L:	Was he a minister from like a local church in town?							0.0
+374	S:	Mmhm.							0.0
+375	S:	I remember Reverend Mayberry, he was one.							0.0
+376	S:	He was—he really.							0.0
+377	S:	"He'd come in: ""Young people: listen to me!"							0.0
+378	S:	I am going to give you something good to hang on to today.							0.0
+379	S:	""" I mean, we'd just have all—."							0.0
+380	S:	But, we was very respectable.							0.0
+381	L:	"We had to be, because they didn't take that crap like these kids do today.							"							-1.0
+382	S:	Unh- uh!							0.0
+383	S:	You couldn't—you couldn't do that.							0.0
+384	L:	"You had to be respectable.							"							-1.0
+385	S:	And like I said, because when I got my first new book, I was a senior.							0.0
+386	L:	A senior in high school?							0.0
+387	S:	Brand new math book.							0.0
+388	L:	They got brand new math books, so it was like in 1950?							0.0
+389	L:	How did they get the new math books?							0.0
+390	S:	I don't know, but I got a brand new math book.							0.0
+391	L:	And your favorite subject, so!							0.0
+392	S:	Oh, God.							0.0
+393	S:	And I carried it around with me!							0.0
+394	S:	That's the one book I always had with me everywhere I went.							0.0
+395	S:	I had that math book.							0.0
+396	S:	I really did like math.							0.0
+397	S:	I really did.							0.0
+398	S:	And I still do like math.							0.0
+399	S:	When I went to Santa Fe, that's the first class.							0.0
+400	S:	My aunt and my uncle paid my tuition for me to go there.							0.0
+401	S:	"And I says, ""I'm going to take something I really understand."							0.0
+402	S:	"It's math,"" and I says, ""I'll see how well I do; if I don't do good in math, then I'm not going to go to school."""							0.0
+403	S:	So at the time, I was getting AFDC for my kids.							0.0
+404	S:	And this lady was my worker.							0.0
+405	S:	And she was so nice!							0.0
+406	S:	"And she says, ""I want you to go, and I want you to get this teacher."							0.0
+407	S:	He's very nice, he's very understanding.							0.0
+408	S:	I want you to get him.							0.0
+409	S:	"Take his class for math, and I'll bring you all my notes and you can go over them if he's still teaching this way."""							0.0
+410	S:	"""You going to do that?"""							0.0
+411	S:	"She say, ""Yes, because I think you can do it."""							0.0
+412	S:	"And she says, ""As a matter of fact, I know you can do it."""							0.0
+413	S:	So, he was very good teacher.							0.0
+414	S:	And you know when you can't explain something like other people, you know, mostly?							0.0
+415	S:	So when I got to his class, and he asked a question.							0.0
+416	S:	So he asked me to—and so, I was explaining it and all—most of the kids—I think it was maybe three Blacks in the class along with, I was the third one, and they all the rest was White.							0.0
+417	S:	And they just start laughing!							0.0
+418	S:	"And I was about to cry and he says, ""Margaret, you're doing just fine."""							0.0
+419	S:	"He says, ""By the way, don't answer it."""							0.0
+420	S:	He ask one of the other kids.							0.0
+421	L:	One of the White ones?							0.0
+422	S:	She didn't—she couldn't explain what it was.							0.0
+423	S:	He asked another one, and they couldn't explain.							0.0
+424	S:	He ask another; they didn't explain.							0.0
+425	S:	So finally, he came back to me.							0.0
+426	S:	"And he says, ""Now Margaret, would you like to take that question I asked, and give me the definition?"							0.0
+427	S:	""" I says, ""Yes, I'll try."							0.0
+428	S:	"I'm not sure if I can or not, but I'll try."""							0.0
+429	S:	Perfect.							0.0
+430	S:	"He says, ""Now, see what I'm talking about?"							0.0
+431	S:	See, all of you were laughing; evidently she studied, and she was able to answer the question.							0.0
+432	S:	And none of you didn't.							0.0
+433	S:	""" And a couple said, ""Well I knew it, you didn't ask me."""							0.0
+434	S:	"He says, ""Everyone I did ask, they didn't know it."							0.0
+435	S:	"They didn't give me an answer."""							0.0
+436	S:	"He said, ""That's not nice for you all to do."							0.0
+437	S:	This is a integrated school.							0.0
+438	S:	"She has just as much right to be in here as you have.							"							-1.0
+439	S:	"So if you going to take my class from now on, then you have to show her some respect."""							0.0
+440	S:	And from then on, I got along just fine.							0.0
+441	S:	I mean, that was one experience							0.0
+442	S:	I says I never would like to go through again.							0.0
+443	S:	But now all of my children—they were integrated.							0.0
+444	S:	Because at first, when I first had them, I had to really fight for them to go to A Quinn Jones, because I felt like that was the best Black school.							0.0
+445	S:	I knew the teachers.							0.0
+446	S:	Because, see, Lincoln was a elementary to high school.							0.0
+447	S:	And I knew the teachers that taught the elementary.							0.0
+448	S:	They were very good teachers!							0.0
+449	S:	"So I told the school board, I says, ""Maybe I would understand it if I was trying to get my kids in one of your White schools, but that's not what I'm trying to do."							0.0
+450	S:	I just want them to go to the best Black elementary school.							0.0
+451	S:	And I feel like A Quinn Jones is the best.							0.0
+452	S:	And that's where I'd like for them to go.							0.0
+453	S:	But if you don't have me an answer in the next few days, then I will send them out of the county.							0.0
+454	S:	""" They thought I was kidding."							0.0
+455	S:	I meant that!							0.0
+456	S:	Because my aunt and uncle lived right across the street from a Catholic school, and I had been talking to them, and she was getting everything all ready for my kids to go.							0.0
+457	S:	She had got a babysitter and everything.							0.0
+458	L:	What year was this?							0.0
+459	S:	Let's see.							0.0
+460	L:	"Karron was—she born in 56, so she had to be—when they started school?							"							-1.0
+461	S:	When she was six?							0.0
+462	S:	When she was six.							0.0
+463	S:	Yeah.							0.0
+464	L:	And did she go to A Quinn Jones?							0.0
+465	S:	Oh yes!							0.0
+466	S:	Yes, she sure did.							0.0
+467	S:	Because I didn't live on that side of town, but my babysitter was on that side of town, so—and I had this cab that would pick us up, drop me off at work, take my kids that had to go to the babysitter, and the ones that was going to go to school would walk with her grandchildren to school.							0.0
+468	S:	So I had it all arranged where, you know, somebody was taking care of them, would see that they get to school and everything.							0.0
+469	S:	"So, just at the time I was fixing to get them all packed up to go to Jacksonville, the school board call. """							0.0
+470	S:	"Ms. Knight?"""							0.0
+471	S:	"""Yes?"""							0.0
+472	S:	"""Um, your children can go to A Quinn."""							0.0
+473	S:	"Because the principal told me, Ms. Jordan—she was the principal then—she says, ""Don't send them the first day."							0.0
+474	S:	""" I says, ""I won't."""							0.0
+475	S:	"She says, ""If I had more parents like you, would stand up for their kids like you're doing for yours, we would really get things going."""							0.0
+476	S:	"And they told me, they says, ""We never had anybody to speak up and talk."""							0.0
+477	S:	"I says, ""Well I'm not everybody; I'm me."							0.0
+478	S:	And that's where I want my kids to go, and if they can't, then I'll go send them to Duval county.							0.0
+479	S:	"I've already made the arrangements."""							0.0
+480	S:	"""Oh no, no, no!"							0.0
+481	S:	"They can go to any school you—."""							0.0
+482	S:	And I know they was lying, but—!							0.0
+483	S:	"But they were saying, ""They can go to any school here you want them to go to."""							0.0
+484	S:	Because it hadn't integrated yet.							0.0
+485	S:	And so, I know they couldn't go to any school.							0.0
+486	S:	But that's what they told me, that they could go to any school we wanted.							0.0
+487	L:	You should have taken them up on the offer!							0.0
+488	S:	That's what they said!							0.0
+489	S:	"""They can go to any school you like for them to go to."""							0.0
+490	S:	No.							0.0
+491	S:	Okay, not worried about it.							0.0
+492	S:	"But you have to be willing to put yourself out there for your kids if you want them to get a good education.							"							-1.0
+493	S:	So I'm proud of—well when my oldest daughter finished, she was, she went to Eastside.							0.0
+494	S:	She graduated from Eastside.							0.0
+495	S:	Because they were going to Lincoln and they broke it up—the new Lincoln—and they went to Howard Bishop.							0.0
+496	S:	So Howard Bishop School was Buchholz.							0.0
+497	S:	That group went to Buchholz.							0.0
+498	S:	And the ones that came from Lincoln, they went to Eastside.							0.0
+499	S:	So one group went in the afternoon, and one group went in the morning to school.							0.0
+500	S:	So when she finished Eastside, she was prepared to go into an office.							0.0
+501	L:	Wow.							0.0
+502	S:	Yeah.							0.0
+503	S:	And my second daughter was the same thing.							0.0
+504	S:	They prepared them where they could go out into the world to work in just case they wasn't able to go to college.							0.0
+505	S:	And both of them got that training and everything, so I was really pleased about that.							0.0
+506	S:	My oldest son went into the Army, and he did really good in there.							0.0
+507	S:	So.							0.0
+508	S:	The youngest boy graduated, but he didn't want to do nothing, so he didn't do nothing.							0.0
+509	S:	All he wanted to do was play football, football, football.							0.0
+510	S:	That's all.							0.0
+511	S:	"I say, ""You better study your lessons!"""							0.0
+512	S:	Football, football, football.							0.0
+513	S:	"But when he graduated, ""Mother!"							0.0
+514	S:	It's a real diploma!							0.0
+515	S:	"""  I say, ""Well I'm glad you made it"							0.0
+516	S:	"but you didn't want to do nothing but play football."""							0.0
+517	L:	He played football in high school?							0.0
+518	L:	At Lincoln or at East—?							0.0
+519	S:	Eastside.							0.0
+520	L:	Eastside.							0.0
+521	S:	But he started at the boys' club playing football, so.							0.0
+522	L:	"And they both—he was, got to be a lifeguard, and my youngest daughter, she got to be a lifeguard—both of them,							"							-1,-1
+523	S:	yeah.							0
+524	S:	They was on the swim team.							0
+525	S:	They were very good kids.							0
+526	S:	So now, my youngest daughter, she just finished Santa Fe in—she turned fifty, she finished Santa Fe, and got her degree in medical administration for the VA							0
+527	S:	So I have one granddaughter, she has her Master's degree in—that was her just called me—in social work.							0
+528	S:	So she's moving to North Carolina; and I have one granddaughter that has her bachelor's in Biology.							0
+529	S:	So, the girls are doing—so I got another granddaughter, she's should have hers in—I think she's going into social work, too.							0
+530	S:	So she'll have hers this fall.							0
+531	L:	Where are they going to school?							0
+532	S:	She's going in Fayetteville, and Stephanie lives in Spartanburg, South Carolina, but she got her degree at Edward Waters in Biology.							0
+533	S:	So the girls are doing okay.							0
+534	S:	The boys just don't want to—well one of them, he just got killed.							0
+535	L:	Oh, I'm so sorry!							0
+536	S:	Last July.							0
+537	S:	Last July.							0
+538	S:	And the other two boys, they're not doing nothing.							0
+539	S:	"I says, ""Well, I can't worry about them."							0
+540	S:	"It's not because they didn't have the opportunity to go; they just—sorry, didn't want to do nothing!"""							0
+541	S:	So.							0
+542	S:	But the girls, they decided to do.							0
+543	S:	And my oldest daughter, she has her national certification in something— they went, oh, to City College and finished so that they could work for the VA							0
+544	L:	What college was that?							0
+545	S:	City.							0
+546	L:	Oh, City College?							0
+547	L:	Okay.							0
+548	S:	Yes.							0
+549	S:	They had some kind of program, and my youngest daughter went through it first, and then she told her sister.							0
+550	S:	"Say, ""You need to do that."							0
+551	S:	You can do it.							0
+552	S:	"You need to."""							0
+553	S:	So she went through it, too.							0
+554	S:	Ao now—but now, my youngest daughter, she decided she wanted to move up higher, and so she went and got her degree in medical administration.							0
+555	L:	At Santa Fe?							0
+556	S:	Yes.							0
+557	L:	Alma mater.							0
+558	S:	Oh yes, yes.							0
+559	S:	Santa Fe is a good college, it really is.							0
+560	S:	Sure is a good college.							0
+561	S:	I liked it.							0
+562	L:	So when they went—so before, when they first started, they were at Lincoln, and then that when it was integrated.							0
+563	L:	And then they went to Eastside.							0
+564	S:	Yeah.							0
+565	S:	Yeah.							0
+566	S:	They was at the new Lincoln, you know the new Lincoln, when they came over there.							0
+567	S:	And then they changed the new Lincoln to a middle school, and then I guess it became integrated then.							0
+568	S:	And all the schools had—							0
+569	L:	What was that like when it was undergoing integration?							0
+570	L:	Was—how did you feel about that?							0
+571	S:	Well—							0
+572	L:	Was it a good thing for you?							0
+573	L:	I mean did you—were you happy?							0
+574	S:	"Well I took, you know, I says—this is the way I looked at it: I says, ""You have a better chance than I had."							0
+575	L:	"Because if you apply yourself—you going be in the class with them.							"							-1
+576	S:	"The books are going to be the same.							"							-1
+577	S:	"You have the same opportunity to go to the library,"" but I didn't just depend on the library for them."							0
+578	S:	I made sure I bought a whole thing of encyclopedias.							0
+579	S:	That's the third set, I believe, there.							0
+580	S:	But I made sure that if they couldn't get to the library, they had their encyclopedias at home that they could study or get what they needed.							0
+581	S:	Then, I had a cousin that she was a math teacher, and if they were struggling with something like math, I'd have her to—.							0
+582	S:	"And I sent one of the kids that she say, ""Oh Margaret, she knows the basic principles."							0
+583	S:	That's all she needs to know.							0
+584	S:	""" Say, I said, ""Well she was saying she wasn't getting it or something."							0
+585	S:	"She says, she has it down because you've already taught her that."""							0
+586	S:	But they kept saying, no, that's not—.							0
+587	S:	"But when my granddaughter was doing algebra, and when I had the formula that I had learnt for algebra, she said, ""Granny, I can't get it!"							0
+588	S:	I don't understand it.							0
+589	S:	""" I says, ""Well, don't get upset."							0
+590	S:	"I'm going to give you the formula that my instructor gave to me, and you shouldn't have any problem."""							0
+591	S:	Went back, passed with flying colors.							0
+592	S:	But you just—I don't know.							0
+593	S:	Some people have the gift for teaching, and some of them do not.							0
+594	S:	"And a lot of people like to tell you, ""Well, I've got mine, now you've got to get yours."""							0
+595	S:	But that's not the way to teach a child.							0
+596	S:	You supposed to go out—I'm going to miss my teacher.							0
+597	S:	She's White.							0
+598	S:	But she was so great.							0
+599	S:	She was the first grade.							0
+600	S:	I'm a foster grandparent.							0
+601	S:	And her—I've been with her for four years, but she's moving to Houston.							0
+602	S:	She was so good with her kids.							0
+603	S:	I mean, the slowest one to the one who could really obtain it, you know.							0
+604	S:	I mean, she was very good with them!							0
+605	L:	This was the first grade?							0
+606	S:	First grade.							0
+607	L:	Your first grade teacher?							0
+608	S:	Not my first grade teacher.							0
+609	S:	I'm talking about with the foster grandparents.							0
+610	L:	Oh!							0
+611	L:	Okay.							0
+612	S:	But my first grade teacher?							0
+613	S:	What was my first grade teacher?							0
+614	S:	My first grade teacher, first, was Miss Parker.							0
+615	S:	She was a tough lady.							0
+616	L:	A tough lady?							0
+617	S:	But she was good!							0
+618	S:	I mean, you had to learn.							0
+619	S:	That's when I first started in first grade.							0
+620	S:	I started in Rochelle, and she was my first grade teacher, Miss Parker.							0
+621	S:	She was very good.							0
+622	S:	She—we learned a lot.							0
+623	S:	Because like, you know, you had first, second, third, fourth, fifth, sixth grade, and then seventh and eighth.							0
+624	S:	We had a little three-room school.							0
+625	S:	We had like first grade.							0
+626	S:	Because we didn't have kindergarten.							0
+627	S:	Like they have kindergarten?							0
+628	S:	We didn't have kindergarten—we just started the school in first grade.							0
+629	S:	First—							0
+630	S:	yeah.							0
+631	S:	First, second, third, and fourth, fifth and sixth; then seventh and eighth were in the little room.							0
+632	S:	But Lincoln was—I really did like it because—in Home Ec, we learned to sew, and we learned to cook.							0
+633	S:	And then we would put on the show for, you know, to model our garments that we did for sewing.							0
+634	L:	Oh, a fashion show?							0
+635	S:	Yes.							0
+636	L:	Oh, wow.							0
+637	S:	And then in cooking, it was very nice too; both teachers were very good.							0
+638	S:	And would you believe both of them were in my wedding?							0
+639	L:	Really?							0
+640	S:	Both of my Home Economics teachers was in my wedding.							0
+641	S:	Yes.							0
+642	S:	Yes.							0
+643	L:	Oh, wow.							0
+644	S:	One of them played for the other one to sing.							0
+645	S:	But for cooking, we had to do a complete meal.							0
+646	S:	And with us, greens or cabbage was mostly the type of vegetable that she wouldn't let us do it.							0
+647	S:	"She wouldn't let us—she says, """							0
+648	S:	And we're not fixing any greens today.							0
+649	S:	And you're not fixing any cabbage.							0
+650	S:	""" I say to myself, ""How in the world is she not going to let us do something that we really know about?"							0
+651	S:	""" We had to fix something different, like broccoli."							0
+652	S:	And cauliflower.							0
+653	S:	I think she let us did string beans, because for most of us didn't—for me, I didn't like anything with a hull on it.							0
+654	S:	I mean, and then we had to invite two of our instructors for dinner.							0
+655	S:	Once we prepared it, fixed it and everything, we had to invite them.							0
+656	S:	And here, she's sitting over here, grading you.							0
+657	L:	Oh, no pressure!							0
+658	S:	To see how——how well you do.							0
+659	S:	Did you use your silverware correctly?							0
+660	S:	Oh, we had to do all the etiquette.							0
+661	S:	And we had to do that.							0
+662	L:	And was this at home or was this—?							0
+663	S:	No, this was at school!							0
+664	L:	At school?							0
+665	S:	At school.							0
+666	S:	The classroom was large enough for us to cook in it, and we prepared the food in the classroom.							0
+667	S:	Then, we had to invite two—a man and a woman—to, you know, each one of us, it was like maybe five or six to the group; and you had to invite two teachers, a man and a woman, to come and critique you—see how, was it enjoyable?							0
+668	S:	Whatever, you know.							0
+669	S:	And then, they would tell her.							0
+670	S:	Although, she was sitting there to make sure: did you serve to your right?							0
+671	S:	You know?							0
+672	S:	We had to do all of that.							0
+673	S:	And I was the captain of my team.							0
+674	S:	And we had played like a—learning what we was doing, we did it like a baseball game.							0
+675	S:	She'll ask you the questions and whether, if you could answer it, then you could move to first base.							0
+676	S:	If you couldn't, you was out.							0
+677	S:	Then, somebody else would at.							0
+678	S:	But that's how we learned, and it really stuck with you, how you did, and to do that.							0
+679	S:	We had PE every day, and we had to dress up.							0
+680	S:	We had to have uniform: white shirts, white shorts, white socks, white tennis shoes.							0
+681	L: %HB 	"And they better be nice and ironed every day.							"							1
+682	S:	Every day.							0
+683	L:	"You better have your stuff, and those tennis shoes better be nice and white.							"							-1
+684	S:	Like, I see kids, they—we couldn't do that.							0
+685	S:	"When she said, ""Dress out in your uniform,"" you had to dress out!"							0
+686	S:	And I mean—and she's going to inspect you when you come back.							0
+687	L:	The PE teacher?							0
+688	S:	Teacher, yes.							0
+689	S:	Yes, to make sure.							0
+690	S:	And if something was out of place or something, she'd—							0
+691	L:	Call you out.							0
+692	S:	But it was good.							0
+693	S:	It was a good experience.							0
+694	S:	I really did—I enjoyed all of my teachers, because they were all very nice to me.							0
+695	S:	Because I made sure I was very nice.							0
+696	S:	You know, not getting into any trouble or anything.							0
+697	S:	Because my grandmother would've killed me if I had.							0
+698	S:	But it was all nice.							0
+699	S:	We had men and women.							0
+700	S:	Because my eleventh grade history teacher was a man, Mr. Bob Jones.							0
+701	S:	And he loved—what is that?							0
+702	S:	Baseball.							0
+703	S:	"When we coming up, and the guys would get together to watch the baseball, and sometimes he'll says, ""Now Margaret, you're over the class today, and you make sure everybody turn in their homeworks."""							0
+704	S:	"""Me?"							0
+705	S:	"Why does he get me to do it?"""							0
+706	S:	"He says, ""And I expect to see this on my desk when I return."""							0
+707	S:	"As soon as he leave the room, I said, ""Now, you know we were supposed to bring this homework in."							0
+708	S:	So, everybody have it, put it up there.							0
+709	S:	"I'm not going to check to see did you put it there, but just make sure you put your homework up,"" I said, ""because I'm going to put mine there."							0
+710	S:	"So if you didn't do yours, you got time to do it now."""							0
+711	L:	Right?							0
+712	S:	"""You better try to get it done,"" I say, ""because you know Mr. Jones don't play."							0
+713	S:	"He be saying""—I say, ""because the next time, it'll be somebody else he'll call on."""							0
+714	S:	Because that's the way he would do; he'd call on not the same person every time.							0
+715	S:	You'd never know who he was going call on, but—							0
+716	L:	To collect all the homework?							0
+717	S:	To collect that homework.							0
+718	S:	And they'd better turn it in, too.							0
+719	L:	Why would he make the students collect it?							0
+720	S:	Well, he just, I think—I don't know.							0
+721	S:	I was just—I never did really understand that, why he would do that.							0
+722	S:	"But I know that the biggest time it would be during the time that the baseball game would be coming on.							"							-1,-1
+723	L:	Oh, because he wants to—.							0
+724	S:	And you didn't watch it on TV, they'd go somewhere.							0
+725	S:	Like they having a conference, but they would have that.							0
+726	S:	That's my granddaughter.							0
+727	S:	She works for the county, city, or somebody.							0
+728	L:	Do you need me to—should I turn this off for a second?							0
+729	L:	I do want to kind of ask a couple of questions just to follow up.							0
+730	S:	Okay.							0
+731	L:	You had mentioned about that first math teacher—or, that first math class that you had when you went to Santa Fe.							0
+732	S:	I can't think of his name, but it was really good.							0
+733	S:	I mean, he was really—a really good teacher.							0
+734	L:	And he was a White educator?							0
+735	L:	He was a White professor?							0
+736	S:	Yes, he was a White professor, and he was really good.							0
+737	S:	I mean, he seemed like he—because I knew I was the oldest one in the class.							0
+738	L:	Because you had just come, you like raised your kids, going back to school in the 70s.							0
+739	S:	And he treated me really nice, you know what I'm saying?							0
+740	S:	And that really was my first class—first time being, going to school with mixed kids.							0
+741	S:	I'd never had gone to school with a mixed group.							0
+742	S:	Because when I went to Florida A&M, it was all Black.							0
+743	S:	Now, they got Whites going there now.							0
+744	S:	But it wasn't when I was attending, back in 53. 1953.							0
+745	S:	No.							0
+746	S:	It was all Black.							0
+747	L:	Now is—I mean, was that your, going in, and that was your first experience—I mean outside of the classroom, were there any other—was it hard to get along?							0
+748	S:	You know, after that, I didn't really have any problems.							0
+749	S:	I guess he sort of set the atmosphere straight, and even from then on—you know how some of them do drop and add and everything, but most of them were still there, and they treated me fine after then.							0
+750	S:	It was no problem after that.							0
+751	S:	And one guy, I see he became a lawyer.							0
+752	S:	I know—the Black guy, he became a lawyer.							0
+753	S:	And from then on, I didn't have any problem until I got to, let's see, what was—the nursing class.							0
+754	S:	Ms. something.							0
+755	S:	Because when I started nursing, I had all the, what you call—one part is the theory, and the other part clinical.							0
+756	S:	I had clinical down pat.							0
+757	S:	Yes, really!							0
+758	S:	Because I worked in a doctor's office.							0
+759	S:	I went to there to just work for two weeks, but the person that they had there, she had to have a major operation, and she was gone for nine months.							0
+760	S:	So I stayed there the whole time, and they said everybody that would come to relieve her for vacation time, they didn't learn nothing.							0
+761	S:	They—you know—but I learned a whole lot, because I was interested; I wanted to learn.							0
+762	S:	And I had worked to AGH, and they had the annex.							0
+763	S:	See, before integration, now, I worked at AGH And AGH had a wing off of here which they called the Annex, and that's where the Black patients were.							0
+764	S:	Peds, OB/GYN, everything.							0
+765	S:	So, I worked that wing.							0
+766	S:	So you know, you had to do it all, to learn it all.							0
+767	S:	And I bet you I delivered more babies.							0
+768	L:	Really?							0
+769	S:	Yes!							0
+770	S:	"Because, like, they would come in and say, ""Well, I've been carrying this child for nine months, and its coming."""							0
+771	S:	And the supervisor, she always had that little emergency kit there for you to do, and she carried you through all of this stuff just in case she can't get there in time.							0
+772	S:	So you got to catch the baby or something.							0
+773	L:	And so, this was in the annex, right there.							0
+774	L:	Baby—like, they just come in?							0
+775	S:	Yeah, because they didn't get to go up to third floor, up to the delivery room.							0
+776	S:	Sometimes they didn't make it to the delivery room.							0
+777	L:	It was a delivery room for Whites only, or was that just they couldn't get in there in time?							0
+778	S:	No.							0
+779	S:	Yeah,							0
+780	S:	yeah,							0
+781	S:	yeah, because you—we had a doctor: Dr. Banks.							0
+782	S:	He was Black.							0
+783	S:	And some of the doctors were White.							0
+784	S:	But they could take you up to the delivery room to deliver, but then they brought you back to the annex.							0
+785	L:	Because you weren't—you could use the facilities, and then right back?							0
+786	S:	"That was what they had for you to be.							"							-1
+787	S:	Surgery, OB/GYN, whatever, Peds.							0
+788	S:	Peds was, like, in the hallway, and you had like a ward for the women, and the men on one side.							0
+789	S:	And these couple—you had a room for isolation, then you had the couple of rooms that was like for OB/GYN Then you had the little Peds' nursery, for the little newborn babies.							0
+790	S:	Yep.							0
+791	S:	I'm been through it, so.							0
+792	L:	And that was even before you were even going to Santa Fe for nursing.							0
+793	L:	You were in there volunteering.							0
+794	L:	When was that?							0
+795	L:	How old were you?							0
+796	S:	Oh, no, no.							0
+797	S:	Well, 58. 1958.							0
+798	S:	Because see, I had finished school, and I was there.							0
+799	S:	1958, I got a job at Alachua General.							0
+800	L:	Wow.							0
+801	L:	And how long did you work there for?							0
+802	S:	Well, I left there in 1960, 61, and went to the big Shands.							0
+803	S:	And I worked— because I was doing so good, the supervisor wanted me to work in the ER							0
+804	S:	"And I say, ""You think I can do—?"""							0
+805	S:	"She say, ""Oh, yes!"							0
+806	S:	You can do it.							0
+807	S:	I know you can do it.							0
+808	S:	""" I say, ""Okay, whatever you say."""							0
+809	S:	So I got a lot of experience, so I had a lot of clinical stuff when I went to school.							0
+810	S:	So I wasn't worried about being able to do the clinical part.							0
+811	S:	It was just the theory.							0
+812	S:	"And so, she told me—I think her name was Ms. Benson or something like that—but anyway, she says, ""You might as well do something."""							0
+813	S:	"I said, ""Well if you want me to do the theory, I might as well do the whole class."							0
+814	S:	I'm in no big hurry.							0
+815	S:	"I might as well do the whole thing."""							0
+816	S:	So when I did the whole thing over, I got a B in the theory part, and I got a A in the clinical.							0
+817	L:	"I knew it wasn't going be no problem doing that—I mean, I had it down pat.							"							-1
+818	S:	Because all of them other kids, they didn't want to do too much.							0
+819	L:	"And every time we'd go to the hospital to do something, and it'd be time for one of those White kids to do it, I always ended up having to do it.							"							-1
+820	S:	"Because the instructors didn't want to be—they had people coming in to watch, you know, to see.							"							-1
+821	S:	And I loved Dr. Gilliland.							0
+822	S:	"He say, ""You know what?"							0
+823	S:	You a great student.							0
+824	S:	""" Because he'd examine a patient, and then he'd have me to do it, and I'm telling him everything that was going on."							0
+825	S:	"He says, ""That's the same thing that I felt."							0
+826	S:	"The same thing""— whatever I was telling him, he says, ""You'll make a great nurse."""							0
+827	L:	Dr. Gilliland?							0
+828	L:	And that was at Shands?							0
+829	S:	That was AGH							0
+830	S:	He was a OB/GYN							0
+831	L:	Is that where you, like when you did nursing, you were more OB/GYN?							0
+832	L:	Like that's where you—you worked in that area?							0
+833	S:	No!							0
+834	S:	I did the whole thing.							0
+835	L:	All of it?							0
+836	S:	All of it.							0
+837	L:	The ER, everything.							0
+838	S:	Everything.							0
+839	S:	All of it.							0
+840	S:	When I went to the big Shands, that's when I worked surgical intensive care.							0
+841	S:	Recovering surgical intensive care.							0
+842	S:	And we had everything: before Shands decide to make a medical ICU and a Peds ICU, we had everybody in Surgical ICU							0
+843	L:	All together.							0
+844	S:	Everybody.							0
+845	S:	We had Peds, we had the surgical patient, we had the medical patients.							0
+846	L:	"Everybody was down there, and sometimes it would be me and the supervisor.							"							-1
+847	S:	Boy, I'm telling you!							0
+848	S:	But I enjoyed it.							0
+849	S:	It was really good.							0
+850	S:	"And I kept saying, ""This is exactly what, I'm going to be nurse."							0
+851	S:	"I'm going to be a nurse if it kills me!"""							0
+852	S:	And that's what I ended up becoming.							0
+853	L:	Wow, nice to have that passion.							0
+854	L:	That's so cool—and then you do it, and—wow.							0
+855	S:	Yes, I loved it.							0
+856	S:	"And you know, different people will ask other people, ""Have you seen—you know who I'm talking about!"""							0
+857	S:	"""I wish, I would like for her to take care of my mother."""							0
+858	S:	"""I would like for her to take care of my dad."""							0
+859	S:	"""Oh, I need her, I need her."""							0
+860	S:	"I says, ""I'm not doing that anymore."""							0
+861	S:	Because then my family, my elders, you know started getting ill, and I had to see about them, take care of them and see about it.							0
+862	S:	So, I didn't do it anymore.							0
+863	S:	But like I said, Lincoln High, I wouldn't trade it for anything else.							0
+864	S:	I loved Lincoln!							0
+865	S:	And the University of Florida?							0
+866	S:	We used to have a parade and everything, and we had a band and all.							0
+867	S:	And after the University of Florida would have their parade, we would get a lot of their stuff and do our floats and things.							0
+868	L:	A parade for a game day?							0
+869	S:	Yes!							0
+870	S:	Yes, when we was getting ready to have our Homecoming.							0
+871	S:	Mmhm.							0
+872	S:	Yeah, the University of Florida.							0
+873	S:	We used to do that, and that was—it was so nice.							0
+874	L:	Did everyone come out, the whole community?							0
+875	S:	Yes, yes.							0
+876	S:	And it was just really nice, really, really nice.							0
+877	S:	And we had the—like I said, and I made my evening dress for the spring festival.							0
+878	S:	I made my evening dress for the prom.							0
+879	S:	Because I was taking sewing in Home Ec.							0
+880	L:	And you would do that with the fashion show?							0
+881	S:	Yes!							0
+882	S:	Yes!							0
+883	S:	It was really, really nice.							0
+884	S:	"And it would be nice to see everybody get all dressed up; the guys would be in their suits, and then they'd bring their corsages and everything.							"							-1,-1
+885	S:	It was really nice.							0
+886	S:	I wouldn't trade that experience for anything else.							0
+887	S:	I really did enjoy Lincoln.							0
+888	S:	But I'm glad that it became integrated where each child—whether you Black, White, Chinese, Japanese, whatever—you have the same chance that the others have to get an education, a good education.							0
+889	S:	If you apply yourself, you can do well.							0
+890	S:	"You just have to be able to apply yourself.							"							-1
+891	L:	So, how did you feel when it integrated, and then it ended up closing?							0
+892	S:	About Lincoln closing?							0
+893	S:	Yeah, that's what we've been talking about.							0
+894	L:	"We was trying to figure a way that we could get Lincoln High School back, but it'll never be the same.							"							-1
+895	L:	"It'll never—it will never be the same.							"							-1
+896	S:	Because they have destroyed so much of our memorabilia, like all the awards and things that the school received; trophies and different things.							0
+897	L:	They destroyed it?							0
+898	L:	Who?							0
+899	S:	I understand they moved a lot of it out of the new Lincoln, and put it in the basement, and then a lot of it just ended up in the fire.							0
+900	S:	So—							0
+901	L:	What, a fire?							0
+902	S:	Fire.							0
+903	S:	You know, they just got rid of it.							0
+904	L:	They burned it?							0
+905	S:	They burned it,							0
+906	S:	yeah.							0
+907	L:	Wow, why?							0
+908	L:	That's horrible.							0
+909	S:	"It is, and that's the reason I says it'll never be the same.							"							-1
+910	S:	"It'll never be the same.							"							-1
+911	S:	Because when it went to new Lincoln, I know we had our fiftieth—no, we had— because our class was the first that we remembered having a class reunion, and we gave them one of these big cabinets where you could put the trophies in and lock it.							0
+912	S:	I haven't seen it since we gave it to them, and we put it at the new Lincoln.							0
+913	S:	And it was to put the trophies that the guys, that they had won for basketball, and the ones for football.							0
+914	L:	From when you went to school?							0
+915	S:	Uh-huh.							0
+916	S:	It was all destroyed as far as—that's what they were talking about when we was planning this Lincoln reunion that we just did.							0
+917	S:	And they say one or two people have some things from Lincoln, but that's a—because my sister, she was Miss Lincoln in 51, and we didn't take any pictures.							0
+918	S:	And I went							0
+919	S:	and I asked to see if they—and I know pictures were taken and everything, but—I can just see her in that convertible with her red and white on.							0
+920	S:	And she loved tams, and she had a tam.							0
+921	L:	A tam, what's that?							0
+922	S:	The little tam that you sit on your head.							0
+923	L:	Oh, okay.							0
+924	S:	Uh-huh.							0
+925	S:	And she was in the middle, and two of her attendants—one was on each side of her—but, as I said, we didn't take a picture.							0
+926	S:	So, I didn't have one.							0
+927	S:	When they was doing this, well I did have her graduation picture, but I didn't have a picture of them being on the float.							0
+928	L:	And that's such a shame, because you think about how great it was, and you talk about all of these things, like with the community and stuff, and it's such a legacy, and such positive contribution.							0
+929	S:	Yes, it was.							0
+930	S:	It was.							0
+931	L:	And then just, they take that.							0
+932	L:	And it's almost—							0
+933	S:	Yes.							0
+934	S:	"So like I told them, I says, ""It'll never be the same, even if you got the name back, because you'll never have a complete Black school."							0
+935	S:	"It's not going to be that way, because you have to go with the way it's zoned off.							"							-1
+936	S:	"So it never would, you know, be."""							0
+937	S:	"So, I think that's why instead of naming it ""Lincoln,"" they named it Eastside, and Buchholz."							0
+938	S:	That way, when they built the school that would— Buchholz.							0
+939	S:	GHS kept its name, because it was right there where the 720 building is.							0
+940	S:	You know where the 720—the plaza?							0
+941	L:	Okay.							0
+942	S:	720?							0
+943	S:	Okay.							0
+944	S:	Well, that was GHS school; then Santa Fe, that's where I started going there.							0
+945	S:	Because GHS had moved where they are now.							0
+946	L:	Right.							0
+947	L:	So you still go to the—you just had the reunion?							0
+948	S:	Yeah, we just had our biannual class reunion, and it was nice.							0
+949	S:	Quite a few people attended; a lot of them was from out of town.							0
+950	S:	You can't hardly get the people right here in town to do anything.							0
+951	S:	Three of our classmates that graduated in 1950 was there.							0
+952	S:	Our Miss Lincoln, and that was the first year that the whole school voted— all before each class raised the money, say tenth, eleventh, and twelfth.							0
+953	L:	"They raised, and which class raised the most money would have the student would be Miss Lincoln.							"							-1
+954	S:	But the class of 1950, the whole school voted on her and my class won.							0
+955	S:	She was Miss Lincoln.							0
+956	L:	"And ""Miss Lincoln,"" what was ""Miss Lincoln?"""							0
+957	S:	She was the girl that represented the whole entire school.							0
+958	L:	Wow.							0
+959	S:	Yeah, she was.							0
+960	S:	The whole school, and we had the whole school from first grade to vote.							0
+961	L:	Everyone.							0
+962	S:	And we really sold our class, and we got all the votes, really.							0
+963	L:	"So who could have been—anyone could've been ""Miss Lincoln,"" or was it the older girls?"							0
+964	S:	Tenth through twelfth.							0
+965	S:	"And seventh through ninth was, like, ""Miss Homecoming."""							0
+966	L:	Okay.							0
+967	L:	So it was kind of like a tiered thing.							0
+968	L:	"But ""Miss Lincoln"" was ""Miss Lincoln."""							0
+969	S:	"Yes, yes. """							0
+970	S:	"Miss Lincoln"" was ""Miss Lincoln,"" and so, we felt like we start that trend and have the whole school to vote on."							0
+971	S:	So anybody from tenth through twelfth, whoever you chose to run out of your class, could win.							0
+972	L:	So was it like a Homecoming—was that for Homecoming week?							0
+973	L:	And they would go out and that was part of the whole parade, with the convertibles and stuff?							0
+974	S:	Yes, she was the queen, then she had her attendant.							0
+975	S:	"Some of her attendants would be the class, you know, whoever first runner-up, second runner-up, whatever.							"							-1
+976	S:	You know, that's the way it was.							0
+977	S:	It was very nice.							0
+978	S:	I mean, I always think about those days.							0
+979	S:	Because my first year, I was in the drill team, and we had to wear red and white.							0
+980	S:	And red skirt, white shirt, waist blouse, , white socks.							0
+981	S:	And we had a band—Mr. Miller was our band teacher.							0
+982	S:	He just had come from FAMU, and he started the band.							0
+983	S:	And then, when they went to Eastside, all of the band went with him.							0
+984	S:	I'm so sick they don't have a band!							0
+985	S:	I guess—							0
+986	L:	Lincoln lost the band?							0
+987	S:	Eastside didn't have a band anymore.							0
+988	S:	"But when they did split up, all the kids that went there was in the band, and so after all of that group of people left—because my son, he used to be with the drummers.							"							-1
+989	S:	They was patterning themselves after FAMU band.							0
+990	S:	They was just about as good as they were.							0
+991	L:	Wow.							0
+992	S:	They sure were!							0
+993	L:	The drum line is the best part.							0
+994	S:	They was really great!							0
+995	S:	But then they tell me they don't have a band anymore at Eastside.							0
+996	S:	I guess parents, with the economy—most of the kids owned their own instruments.							0
+997	S:	Their parents decided to get them, and they didn't relinquish them when they graduated; they just kept their—because I know my granddaughter, she was in the band at Westwood Middle.							0
+998	S:	She didn't get rid of her—							0
+999	L:	Instrument?							0
+1000	S:	"I say, ""Well you could've—."" ""No, that's mine."							0
+1001	S:	"You bought it for me."""							0
+1002	S:	So she has it in Spartanburg with her now!							0
+1003	S:	So that was really a great experience at Lincoln.							0
+1004	S:	I mean, I really loved every minute of it.							0
+1005	S:	It was really, really nice.							0
+1006	S:	The only thing I really didn't like was the food.							0
+1007	L:	The food?							0
+1008	S:	For lunch.							0
+1009	S:	I didn't like that food!							0
+1010	S:	I don't know, I just couldn't get used to it.							0
+1011	S:	"So I told my grandmother, I says, ""I have to take my lunch."							0
+1012	S:	I'll just buy some milk.							0
+1013	S:	""""							0
+1014	S:	And that's what I did.							0
+1015	L:	What was the food like?							0
+1016	S:	It just—I don't know, it just didn't taste like the food I was used to eating.							0
+1017	S:	And, I don't know—and I told her I just couldn't digest it.							0
+1018	L:	Where were the Home Ec teachers?							0
+1019	S:	"""I just can't,"" I says, ""I just can't!"""							0
+1020	S:	And every day, I'd stop at that little store and buy me a nice big red apple.							0
+1021	S:	"It would only be like a dime.							"							-1
+1022	S:	"And I says, ""I'll have to make it on this apple."							0
+1023	S:	Because I just cannot eat that food.							0
+1024	S:	""" I tried it, but I just couldn't."							0
+1025	S:	And so, I took my lunch every day.							0
+1026	S:	I brought my lunch to school every day, but I'd go in the lunchroom and buy milk to drink.							0
+1027	S:	Because that's one thing they insisted on you having: milk.							0
+1028	S:	Every day.							0
+1029	S:	They insisted on the children, making sure they had milk.							0
+1030	S:	"They kept saying, ""It's good for your teeth, it's good for your health, your bones, and everything."							0
+1031	S:	You need to drink your milk.							0
+1032	S:	"You need to drink your milk."""							0
+1033	S:	"""Okay."							0
+1034	S:	""" We'd drink."							0
+1035	S:	"And they wanted to instill on you: ""Eat your carrots!"""							0
+1036	S:	And I couldn't stand carrots.							0
+1037	S:	No, no no.							0
+1038	S:	"I says, ""Not me and those carrots!"""							0
+1039	S:	Mm-mm.							0
+1040	L:	I'd like an extra apple!							0
+1041	S:	"I just won't have—my eyesight just will not be good if I have to eat carrots for it.							"							-1
+1042	S:	So, I didn't.							0
+1043	S:	But other than that, we had some wonderful teachers.							0
+1044	S:	And I sang in the glee club there.							0
+1045	S:	Ms. Johnson was a sweetheart.							0
+1046	L:	So how many extracurricular activities—you did glee club, baseball?							0
+1047	L:	Basketball.							0
+1048	S:	Basketball.							0
+1049	L:	Drill team.							0
+1050	S:	Drill team, yep.							0
+1051	S:	I did that because I loved that.							0
+1052	S:	"I just wanted to be a part of something, and you could choose what you'd like to be—participate in.							"							-1,-1
+1053	S:	And I loved the singing in the glee club.							0
+1054	S:	It was nice.							0
+1055	S:	And we'd go to Ms. Johnson's house on Sunday afternoon and practice.							0
+1056	S:	My grandmother would take me; bring me over there to practice.							0
+1057	S:	It was really nice.							0
+1058	S:	Like I said, I wouldn't change that experience for anything.							0
+1059	S:	I loved Lincoln.							0
+1060	S:	I wish it could have stayed on, but changes do come.							0
+1061	L:	Yeah.							0
+1062	S:	Yeah.							0
+1063	S:	So.							0
+1064	S:	And sometimes it's for the better.							0
+1065	S:	"And I have to say now it was for the better, because our kids couldn't come up: ""I just didn't know that."							0
+1066	S:	I couldn't do that.							0
+1067	S:	I didn't get that.							0
+1068	S:	""" You had the same chance Anne over there had, so why you couldn't do it?"							0
+1069	S:	Because you didn't apply yourself.							0
+1070	S:	And so my kids, they couldn't tell me that.							0
+1071	S:	"I would say, ""Well, whatever you all needed""—something."							0
+1072	S:	"I says, ""I know you wasn't going be able to go and study in the library as long as you want."							0
+1073	S:	""" That's why I made sure I got the set of encyclopedias, so they'd have it there, that they could look up stuff to learn and everything."							0
+1074	L:	To really give them every opportunity.							0
+1075	S:	Yes!							0
+1076	S:	Yes.							0
+1077	S:	And they had it so they couldn't say they didn't, because practically the whole neighborhood used my books.							0
+1078	S:	"I've got some missing now because when I came here, ""Can I borrow your book?"""							0
+1079	S:	And then they never bring it back, and I forget who got it, taken it.							0
+1080	S:	"But everybody's out and that granddaughter , she says, ""Granny, I've already got a set for my kids."							0
+1081	S:	""" I said, ""Good."							0
+1082	S:	Then I don't have to worry about any more kids.							0
+1083	S:	"You already got a set."""							0
+1084	S:	"And I says, ""If you don't have the Childcraft, you can take the Childcraft with you."							0
+1085	S:	"Because it won't be any more children!							"							-1
+1086	S:	So, you can take those with you when you get ready to go.							0
+1087	L:	Yeah.							0
+1088	S:	Yeah.							0
+1089	S:	Anything else?							0
+1090	L:	No, I mean, is there anything you want to add, anything for the record?							0
+1091	S:	Oh, let's see.							0
+1092	L:	Any favorite memories, or just last thoughts?							0
+1093	S:	No.							0
+1094	S:	Because now, like the kids are going to Washington for the patrols and things.							0
+1095	S:	We didn't have that.							0
+1096	S:	I don't even remember them saying anything about it, but—							0
+1097	L:	At the patrols?							0
+1098	S:	We didn't have any patrols at our school, during the time back then.							0
+1099	S:	We didn't have that.							0
+1100	S:	But I'm trying to think of something.							0
+1101	S:	I'm trying to think of something that we might've done.							0
+1102	S:	The only thing I know, we always had that rivalry with AL Mebane in Alachua.							0
+1103	S:	It was a high school there; it was a high school in , it was a high school in Shell, Alachua—maybe it was High Springs.							0
+1104	S:	I'm not sure.							0
+1105	S:	Marion County.							0
+1106	L:	Marion?							0
+1107	S:	Yeah, we used to play them too—football.							0
+1108	S:	And it was good.							0
+1109	S:	You know, the teams was really good.							0
+1110	S:	We used to play Starke, too, but they always wanted to fight or do something.							0
+1111	S:	I remember this semi hit the light pole, and everything went out.							0
+1112	S:	And then the people, they just start throwing eggs at the bus.							0
+1113	S:	And Mr. Parker was the music teacher, band teacher; he got them kids on that bus, and he left.							0
+1114	S:	"I said, ""I can't leave my son and my neighbor's children; they expecting me!"""							0
+1115	S:	"I say, ""And the coach is not letting them go!"							0
+1116	S:	Oh, no.							0
+1117	S:	"I can't leave them up here too; I got to stay here right with them."""							0
+1118	L:	"Because I had to make sure they'd be safe and everything.							"							-1
+1119	S:	So finally, they came back							0
+1120	S:	and we beat them!							0
+1121	S:	They finally got the lights back, and we beat 'em!							0
+1122	S:	I mean, we really did.							0
+1123	S:	But like I say, the teachers were really nice.							0
+1124	S:	And to say that we had the young men that came back from the Service and went to school, and how respectful they were to their teachers and things.							0
+1125	S:	I remember Mr. T B McPherson when we was marching.							0
+1126	L:	What was his name?							0
+1127	S:	TB McPherson.							0
+1128	L:	Oh, TB McPherson.							0
+1129	L:	Okay.							0
+1130	S:	Uh-huh.							0
+1131	S:	When we were marching, and practically the boys—they was just about all six feet or more, and he just started crying.							0
+1132	S:	"He said, ""There go my whole football team!"							0
+1133	S:	"Can't you all stay another year?"""							0
+1134	L:	We have rivalries to beat!							0
+1135	S:	"They was marching down, and he said, ""There go my whole football team!"							0
+1136	S:	""" I thought that was really nice."							0
+1137	S:	But they respected him and he gave them respect.							0
+1138	S:	We were a very close-knit family.							0
+1139	S:	It was really, really good.							0
+1140	L:	It's really just invaluable, you know?							0
+1141	L:	To have that.							0
+1142	L:	When you say like you can't get it back, it's like you can't even get that dynamic anymore.							0
+1143	S:	No you can't!							0
+1144	S:	You can't.							0
+1145	S:	"Even if Lincoln—if they say, ""Well, we going build this school here, and we going name it Lincoln High School."							0
+1146	S:	""" But you think about it, it's not going to be an all-Black school."							0
+1147	S:	You're not going to have the memories to put there that you could go back and look at it at sometime and see—take, for an instance, like my kids.							0
+1148	S:	That's when she graduated from Hawaii Pacific in Hawaii.							0
+1149	S:	She went to school there and the two girls was in that club at Edward Waters College.							0
+1150	L:	The Ambassadors Club?							0
+1151	S:	Yes.							0
+1152	S:	You know, just things—and they bring it all right here, so in case they want to come back and just take a look, it's not scattered everywhere.							0
+1153	S:	"I said, ""You can take your stuff and carry it with you."""							0
+1154	S:	"""Oh, Granny!"							0
+1155	S:	"We going just leave it right here, because we know you not going throw anything away, and it'll be here.							"							-1
+1156	S:	"When we come, it'll be here.							"							-1
+1157	S:	"We'll just look at it here."""							0
+1158	L:	It's nice to have that one place.							0
+1159	S:	Yes.							0
+1160	S:	"They have that one place that they can come back, take a look: ""Where's so and so and so?"							0
+1161	S:	""" I don't—I told Stephanie, I say, ""Stephanie, I don't have—."""							0
+1162	S:	"She says, ""Oh Granny, I forgot to get you one."							0
+1163	S:	Because I got to put my big one in my office.							0
+1164	S:	""" I says, ""Okay, okay."							0
+1165	S:	All right, all right.							0
+1166	S:	Okay.							0
+1167	S:	"You put it in your office and that's fine with me."""							0
+1168	S:	Yeah.							0
+1169	S:	But it's been so nice talking to you.							0
+1170	S:	So if you got any more questions you need to ask me.							0
+1171	L:	Yes.							0
+1172	L:	These are just some—they have like this packet of things that just—of questions to fill out, just because this interview is going to go in the archives.							0
+1173	S:	Okay.							0
+1174	L:	And you're going to get a copy of it.							0
+1175	S:	Okay.							0
+1176	L:	They're going to record the interview, and we're going to give you a copy.							0
+1177	S:	Okay, good.							0
+1178	L:	This just kind of goes with it.							0
+1179	L:	So okay, date of the interview.							0
+1180	L:	Okay, last name?							0
+1181	S:	Sharpe.							0
+1182	S:	S-H-A-R-P-E							0
+1183	L:	Sharpe.							0
+1184	L:	Margaret.							0
+1185	L:	M-A-R?							0
+1186	S:	M-A-R-G-A-R-E-T							0
+1187	L:	And your middle name?							0
+1188	S:	It's Cooper.							0
+1189	S:	C-O-O-P-E-R							0
+1190	L:	And your maiden?							0
+1191	S:	That's my maiden name.							0
+1192	L:	Oh maiden, Cooper Sharpe.							0
+1193	L:	Yeah.							0
+1194	S:	I always use it.							0
+1195	L:	Okay, and your home address, it's 612 –							0
+1196	S:	Northeast 21st Street.							0
+1197	L:	21st Street.							0
+1198	S:	Yeah.							0
+1199	L:	Date of birth?							0
+1200	S:	June 3rd, 1932.							0
+1201	S:	Just had a birthday.							0
+1202	L:	Oh, you did!							0
+1203	S:	Yes, seventy-eight.							0
+1204	L:	19—sorry?							0
+1205	S:	1932.							0
+1206	L:	32, wow.							0
+1207	S:	Yeah.							0
+1208	L:	Happy birthday by the way!							0
+1209	L:	And place of birth, that was—?							0
+1210	S:	Rochelle.							0
+1211	L:	Rochelle.							0
+1212	S:	Rochelle, Florida.							0
+1213	L:	That's R-O-S-H—							0
+1214	S:	Unh-uh, R-O-C-H-E-L-L-E							0
+1215	L:	Okay.							0
+1216	L:	And your principal occupation is you were a nurse.							0
+1217	S:	Yes.							0
+1218	L:	Current information—residential history, so you were in Rochelle.							0
+1219	L:	That's where you first—							0
+1220	S:	Yeah, and I went to Ft. Lauderdale.							0
+1221	L:	You went to Ft. Lauderdale, and then back.							0
+1222	S:	Back.							0
+1223	L:	Back to Rochelle and then—?							0
+1224	S:	And then Gainesville.							0
+1225	S:	This has been my final destination.							0
+1226	L:	No more moving.							0
+1227	S:	Oh, yes.							0
+1228	L:	And so, education history.							0
+1229	L:	First you started at the Rochelle school for first and what was the—it was at Rochelle—?							0
+1230	S:	Rochelle Elementary.							0
+1231	L:	Rochelle Elementary.							0
+1232	L:	And that was from approximately?							0
+1233	S:	Okay, let's see: I probably went there from first to third grade, and then I went from third grade because I didn't have to repeat third grade.							0
+1234	S:	So fourth, fifth, and sixth, I went to Dillard High School.							0
+1235	L:	Dillard?							0
+1236	S:	Yes, that's the school.							0
+1237	L:	That was in Ft. Lauderdale?							0
+1238	S:	Mmhm.							0
+1239	L:	And then you went back to Rochelle?							0
+1240	S:	Mmhm.							0
+1241	L:	For sixth?							0
+1242	S:	Sixth, seventh, and eighth.							0
+1243	L:	And then Lincoln?							0
+1244	S:	Yeah, ninth through twelfth.							0
+1245	L:	Okay, then your work history.							0
+1246	L:	So your first job was at—?							0
+1247	S:	My first real job was at the doctor's office.							0
+1248	S:	It was called The ABC's, and it was Andrews, Babers, and Cobb.							0
+1249	L:	Andrews?							0
+1250	S:	Andrews.							0
+1251	S:	Doctor Andrews.							0
+1252	L:	Baber?							0
+1253	S:	Babers.							0
+1254	L:	Babers.							0
+1255	L:	B-A-B-E-R-S?							0
+1256	S:	Mmhm.							0
+1257	L:	And Cobbs?							0
+1258	S:	Cobb.							0
+1259	L:	And that was a doctor's office?							0
+1260	S:	Yeah, it was at the doctor's office.							0
+1261	S:	And when I left there, I took care of a lady's little girl.							0
+1262	S:	I took care of her little girl, and then I got the job at—it was Sunland.							0
+1263	S:	It was called Sunland.							0
+1264	L:	Sunland?							0
+1265	S:	Mmhm.							0
+1266	S:	And after Sunland, I left there							0
+1267	S:	and I came to AGH							0
+1268	L:	To AGH							0
+1269	S:	Mmhm, and when I left AGH, I went to the big Shands.							0
+1270	L:	And that's where you ended up working for the rest—?							0
+1271	S:	Yeah, for thirteen years over there.							0
+1272	S:	And in between the time, I went to nursing school.							0
+1273	S:	And then, I did private duty for seven years, then I worked in the nursing home for about three; and then, I went back.							0
+1274	S:	It was still Sunland.							0
+1275	S:	Went back there and they changed to Tacachale, and that's where I retired from because I got hurt.							0
+1276	L:	So, what was the name of that?							0
+1277	S:	Tacachale.							0
+1278	L:	Taca—okay.							0
+1279	S:	Yes, I think its T-A-C-A-H-A-L-E							0
+1280	S:	I believe that's the way it's called, that's the way it's spelled.							0
+1281	S:	Okay, so I worked there for like seven more years and then I had to retire.							0
+1282	L:	Yeah, being a nurse for that long!							0
+1283	L:	That's a lot of work.							0
+1284	S:	Yes, work, work, work.							0
+1285	L:	So is there any organizational membership, any community organizations?							0
+1286	L:	Civic?							0
+1287	S:	Oh let's see.							0
+1288	S:	I—							0
+1289	L:	I know these are a lot of questions, I'm just looking at this packet!							0
+1290	S:	Yes.							0
+1291	S:	Right now, well I was the grand—no, not the grand—I was the matron of the Order of Eastern Stars which is OES O period E period S							0
+1292	L:	And what is that exactly?							0
+1293	S:	Order of Eastern Stars.							0
+1294	L:	Order of Eastern Stars?							0
+1295	L:	Oh, so—							0
+1296	S:	Yeah, I'm a member—was a member.							0
+1297	L:	I'm not quite familiar with that order.							0
+1298	S:	It's a religious Masonic order.							0
+1299	L:	Okay.							0
+1300	S:	It's like really a secret order.							0
+1301	L:	A secret order.							0
+1302	L:	Wow.							0
+1303	S:	Yes, and—							0
+1304	L:	How long were you a part of that for?							0
+1305	S:	Oh, about ten years.							0
+1306	L:	Wow.							0
+1307	S:	Yep, yep.							0
+1308	S:	And I could—I've been to quite a few states where we go and meet like Missouri, Michigan, Tennessee, and Virginia, New York.							0
+1309	S:	Did a lot of traveling.							0
+1310	L:	Really?							0
+1311	S:	Yes, tons of things, different stuff.							0
+1312	S:	But I don't know.							0
+1313	S:	"They keep saying, ""When are you going to return?"""							0
+1314	S:	And I doubt it.							0
+1315	S:	I doubt it if I'm going to ever return to it.							0
+1316	S:	Because it's a—once you join, you're always one.							0
+1317	S:	You're always one.							0
+1318	L:	"I just don't think I'm going be active.							"							-1
+1319	S:	Now, my active club is—I belong to the Widow's Club of Gainesville.							0
+1320	L:	Widow's Club?							0
+1321	S:	Uh-huh.							0
+1322	S:	That's where everybody that's a member is a widow.							0
+1323	L:	And is this kinda just for like, more for like solidarity?							0
+1324	S:	Mmhm.							0
+1325	S:	And we have a couple of males that are widows in it with us, and we have had eight or nine ladies that's widows.							0
+1326	S:	And we had this lady that started it, Ms. Susie Mae White, and she's ninety-six years old.							0
+1327	L:	She started it at ninety-six?							0
+1328	S:	She started the club, yep.							0
+1329	S: %HB 	"And she was just determined that I be a part of it.							"							1
+1330	L:	Wouldn't take no for an answer!							0
+1331	S:	Yes, and I was their treasurer for seven years.							0
+1332	S:	I finally gave it up.							0
+1333	S:	I just have to give it up.							0
+1334	S:	They've been trying to get me to take another office, but I don't know.							0
+1335	S:	I just—							0
+1336	L:	Tired?							0
+1337	S:	I just want to rest.							0
+1338	S:	I just want to do what I want to do.							0
+1339	L:	Yeah.							0
+1340	L:	It's about time, right?							0
+1341	S:	And the other thing: I volunteer for Foster Grandparent.							0
+1342	L:	Okay,							0
+1343	L:	yeah.							0
+1344	S:	Yeah, I do that.							0
+1345	L:	"So I'm hoping I'm going to be with them another three years.							"							-1
+1346	S:	And then that will make me ten years with that.							0
+1347	S:	So, if my health provides, that's what I'm planning on: staying with them for the next three years.							0
+1348	L:	Okay, so the religious history; your current religious denomination?							0
+1349	S:	I'm a Baptist, and I belong to Third Bethel Baptist Church, Rochelle!							0
+1350	S:	Oh, yes.							0
+1351	S:	I got converted in that church.							0
+1352	S:	I got married the first time in that church.							0
+1353	S:	And I've been there—I don't plan to go anyplace else.							0
+1354	L:	Yeah, that's your church.							0
+1355	S:	Yep, that's my church.							0
+1356	S:	And I was just out there for Bible study; we had a good Bible study last night.							0
+1357	L:	Yeah?							0
+1358	S:	"Yeah, I'll be there.							"							-1
+1359	S:	I don't plan on going anyplace else.							0
+1360	L:	Wow.							0
+1361	S:	Yeah.							0
+1362	L:	So you still go to Rochelle every—do you go there for church still on Sundays?							0
+1363	S:	Oh yes, my cousin comes by and pick me up.							0
+1364	S:	We have our main services on the first and third Sundays of each month, and the first, second and fourth Tuesdays, we have Bible study.							0
+1365	S:	The third Tuesday, we have business meeting.							0
+1366	L:	Oh wow, so they teach you business practices and stuff?							0
+1367	L:	That's great.							0
+1368	S:	So, we're there quite a bit.							0
+1369	S:	So next week starting, we probably won't have business meeting, I don't think.							0
+1370	S:	We—Wednesday we'll start our vacation Bible school and we have that every year for the young people.							0
+1371	L:	Oh yeah, summer time.							0
+1372	S:	Yeah, for the young people.							0
+1373	S:	And that's what I've been a part of it ever since I can remember.							0
+1374	L:	Oh yeah, vacation Bible school, I remember going.							0
+1375	L:	It was the highlight of my summer.							0
+1376	L:	I loved it.							0
+1377	S:	Oh yes, when I was living in Ft. Lauderdale, and I loved to come to Rochelle because I'd get to play in the sand and everything, and get dirty!							0
+1378	S:	"My grandmother say—people say, ""Ms. Bell, you don't let her get dirty."""							0
+1379	S:	"She said, ""Yes, she gets dirty, but I don't let her get filthy."""							0
+1380	S:	"She used to say, """							0
+1381	S:	"Well that's what I do; I'll let you get dirty."""							0
+1382	L:	"But they couldn't understand how we'd come from church and could play, and not get that dress, you know, really—you'd get it soiled, but not really black, black, black; it wouldn't be that way.							"							-1
+1383	S:	But she—they couldn't understand that.							0
+1384	S:	"She says, ""Oh yes, she gets dirty"							0
+1385	S:	"but I don't let her get filthy."""							0
+1386	L:	So you would come up even when you were living in Ft.							0
+1387	L:	Lauderdale, you'd come up to Rochelle's vacation Bible school?							0
+1388	S:	No, we'd come for vacation.							0
+1389	S:	"As soon as she'd say, ""Oh, no, you've got to send them back, because vacation Bible school starts, and summer school start!"""							0
+1390	S:	"I told her, I said, ""Lord, whenever I get grown, I won't have to be doing all of this."							0
+1391	S:	"Going to school, going to school!"""							0
+1392	S:	Now I still go to vacation Bible school.							0
+1393	S:	And still doing something.							0
+1394	L:	Yeah.							0
+1395	S:	Yeah.							0
+1396	L:	It's not going to stop.							0
+1397	S:	Yeah, it's not going to stop.							0
+1398	S:	It's a cycle; looks like it's not ever going to stop.							0
+1399	L:	Okay so, wow!							0
+1400	L:	I love it.							0
+1401	L:	And so let's see.							0
+1402	L:	Parents.							0
+1403	L:	Your father's—?							0
+1404	S:	Name was Alfonso.							0
+1405	L:	A-L-F-?							0
+1406	S:	F-O-N-S-O Cooper.							0
+1407	L:	And?							0
+1408	S:	My mother was name Essie Mae London.							0
+1409	L:	Was that E-S-?							0
+1410	S:	E-S-S-I-E Her middle name is Mae, M-A-E London, that was her maiden name, and Cooper.							0
+1411	L:	And then, your grandmother's name?							0
+1412	S:	Lilly Bell Hall London.							0
+1413	L:	London.							0
+1414	L:	Okay.							0
+1415	L:	And your sister's name?							0
+1416	S:	Agnes.							0
+1417	S:	A-G-N-E-S							0
+1418	S:	Her name is Agnes Scott Osborne.							0
+1419	L:	O-S-M?							0
+1420	S:	O-S-B-O-R-N-E							0
+1421	L:	O-S-B Oh, Osborne.							0
+1422	L:	Oh, okay.							0
+1423	L:	Okay, and just dates.							0
+1424	L:	Your father's birthdate?							0
+1425	L:	Do you remember?							0
+1426	S:	I don't know it.							0
+1427	S:	My mother's birthday is nine twenty-two, 1916.							0
+1428	L:	Nine twenty-two, 1916.							0
+1429	S:	And my grandmother was eleven oh-eight, 1897.							0
+1430	L:	1897.							0
+1431	L:	And when did she die?							0
+1432	S:	February 1st, 1996.							0
+1433	S:	She was ninety and a half.							0
+1434	L:	Wow, and do you remember the dates that your parents died?							0
+1435	S:	No, I don't remember when my father died, but my mother died—oh, Lord.							0
+1436	S:	"Oh, she died in 95, so it had to be October 7th, 1995.							"							-1
+1437	S:	Because my Grandmother died after her.							0
+1438	S:	She died in 96.							0
+1439	L:	All right.							0
+1440	L:	I have most of the stuff.							0
+1441	L:	Thank you so much for doing this.							0
+1442	S:	You're welcome.							0
+1443	L:	I had—it was wonderful.							0
+1444	S:	Well I'm glad you enjoyed it.							0
+1445	S:	"I was glad to be able to do it, because I really did love my school!							"							-1
+1446	S:	I really did.							0
+1447	S:	I really did.							0
+1448	S:	Because we really had to learn a lot.							0
+1449	S:	I learned to sew, I learned to cook, I learned the etiquette of it, you know— how to do everything; we was taught that.							0
+1450	S:	I was, I'm thinking myself, we were being trained as if we was not going to go any further than high school.							0
+1451	S:	That's the way I—I mean, to me.							0
+1452	S:	That's the way I felt.							0
+1453	S:	"At least you would be.							"							-1
+1454	L:	If you needed to go out—							0
+1455	S:	If you needed to go out and you had children, you could make their clothes, you could cook—you know, I mean—							0
+1456	L:	They raised the whole—everything.							0
+1457	L:	Every aspect, they covered.							0
+1458	S:	So, we was taught that.							0
+1459	L:	Actually, if I have some extra questions, like if I, when I type it out and stuff, may I contact you again?							0
+1460	S:	Yes.							0
+1461	L:	And honestly, I'm actually really interested to hear maybe, possibly coming back and talking about you being a nurse and working in the hospitals in Gainesville.							0
+1462	L:	If you're ever interested, I'd love to hear it!							0
+1463	S:	Well I enjoyed my work, because the people always would say—you know I had problems just like everybody else, but when I'd get to my job site, just before I walk in that door, everything was left outside.							0
+1464	S:	I'd go in and I'd have a smile, and everybody say that's the way I was in school.							0
+1465	S:	"And somebody told me, say, ""Margaret, you still have that smile."							0
+1466	S:	When are you going to lose it?							0
+1467	S:	""" I hope I never do."							0
+1468	S:	But that's the way I was.							0
+1469	S:	I mean I didn't let—because there was nothing I could do about it.							0
+1470	S:	So I know the patients, they're feeling bad.							0
+1471	S:	"They don't need you to be sour and not do something, just talk to them rough or anything.							"							-1
+1472	S:	I didn't do that.							0
+1473	S:	I remember I had this patient, she was a kidney patient of Dr. Cade.							0
+1474	S:	Do you remember Dr. Cade?							0
+1475	L:	Yes,							0
+1476	L:	yeah.							0
+1477	S:	He started that Gatorade and he used to bring it in a quart jar.							0
+1478	S:	And he used to take a little medicine cup, and maybe he'd give this one fifteen cc's, and that one might need thirty.							0
+1479	S:	But it was not too much, because they couldn't have a lot of fluids.							0
+1480	S:	So, he was doing that.							0
+1481	S:	And they brought this lady in from Jacksonville, and she was my patient and I remember they put her on 464.							0
+1482	S:	"I says, ""Actually, she looks pretty sick."							0
+1483	S:	"She really needs to be in ICU"""							0
+1484	S:	"She was in and out of it, so I kept—they always said be careful of what you're saying, because even—the brain is the last to go.							"							-1
+1485	S:	So—and they hear you—you know, talking.							0
+1486	S:	And sometimes they can come back and tell.							0
+1487	L:	Even if they're unconscious and not responsive, they can tell.							0
+1488	S:	Yes, mmhm!							0
+1489	S:	They can tell you.							0
+1490	S:	So, I finally got her put in medical intensive care, and she went home to Jacksonville.							0
+1491	S:	Then she got better, and she went home							0
+1492	S:	and she came back.							0
+1493	S:	"And I guess she remembered my face or something, but she says, ""You took very good care of me."""							0
+1494	S:	"I said, ""You sure it was me?"""							0
+1495	S:	"She say, ""Yes, it was you."							0
+1496	S:	"You was the one that kept saying I needed to be in intensive care, and somehow I got to intensive care							"							-1
+1497	S:	"and I know you had a hand in it."""							0
+1498	S:	"And then I looked at her name—she wasn't my patient—and then I looked and said, ""Oh yes, I remember you now."""							0
+1499	S:	"She say, ""Yes, and I thank you so much."							0
+1500	S:	If I had stayed where I was, I probably wouldn't have made it.							0
+1501	S:	""" I says, ""Well, I don't know about that, but I'm glad you're doing much better."""							0
+1502	S:	So I think she lived like maybe two more years.							0
+1503	S:	"Then I asked Dr. Cade about her and he told me, ""You really did have a profound something on her, because she asked about you."""							0
+1504	S:	So, she remembered my name and everything!							0
+1505	S:	"So I says, ""Okay, well I'm glad I did something to really help."							0
+1506	S:	""" I had this patient that when I did private duty, he had had this major heart attack, stroke, and everything, and brought him from the VA"							0
+1507	S:	The lady thought he was just going to live about two weeks.							0
+1508	S:	That's what they told him.							0
+1509	S:	And I start working with him; I worked for him for seven years.							0
+1510	L:	Wow.							0
+1511	L:	"From that point when they were like, ""He's got this long."							0
+1512	L:	""""							0
+1513	L:	Seven years!							0
+1514	S:	And she'd just leave me in!							0
+1515	S:	"The last time I had to get him to the hospital, he said, ""Don't call the rescue, you can get me there!"							0
+1516	S:	"You can get me there!"""							0
+1517	S:	"I said, ""I don't know if I can do that."							0
+1518	S:	"I better call the re—"" ""No!"							0
+1519	S:	No!							0
+1520	S:	No!							0
+1521	S:	You'll get me there!							0
+1522	S:	You'll get me there!							0
+1523	S:	""" I had all of his cars to get him in, and I'm trying to call her to tell her she needs to get to the hospital."							0
+1524	S:	"""You handle it!"							0
+1525	S:	"I'll be there!							"							-1
+1526	S:	"You handle it!"""							0
+1527	S:	"I say, ""Oh, don't put it all on me; you need to be here to see about your husband!"							0
+1528	S:	"He's in here."""							0
+1529	S:	And he and I both was in the hospital at the same time.							0
+1530	S:	And I saw her							0
+1531	S:	and I looked, so I asked the nurse.							0
+1532	S:	"I say, ""Is there a Mr. Herndon in ICU?"""							0
+1533	S:	"She say, ""I'll check to see."""							0
+1534	S:	"I said, ""Well, when you go back, see if his wife is in there."							0
+1535	S:	"She's a little short lady and her name is Herndon."""							0
+1536	S:	So she got her							0
+1537	S:	and she brought her in there.							0
+1538	S:	"She say, ""Margaret, you wouldn't want to see him."							0
+1539	S:	"He wouldn't want you to see him that way."""							0
+1540	S:	He was on his way out and he got really, really sick.							0
+1541	S:	"She say, ""I don't want you to see him like that."							0
+1542	S:	"I can't hardly take it myself."""							0
+1543	S:	"I says, ""Okay, all right."							0
+1544	S:	I'll keep you in my prayers.							0
+1545	S:	Saying everything so nice.							0
+1546	S:	""" I went to see her cause they had put her in Oak Hammock."							0
+1547	S:	"She say, ""You know I don't want to be here, can't you take care of me?"""							0
+1548	S:	"I says, ""I wish I could!"							0
+1549	S:	I just came by to see you!							0
+1550	S:	I wish I could take care of you, but I can't.							0
+1551	S:	"I just can't."""							0
+1552	S:	Because since all of that, I have a pacemaker, and I have a stint put in.							0
+1553	S:	I just can't take care of her.							0
+1554	L:	You've got to take care of you!							0
+1555	S:	"Yeah, I can't have a lot of pressure on me anymore, and Dr. Silverstein told me, he says, ""I don't want you to stress."							0
+1556	S:	"I don't want you to stress yourself."""							0
+1557	S:	So I know that I wouldn't want to take that on.							0
+1558	S:	I wish I would've been in shape to take care of her, because she was nice to me.							0
+1559	S:	They both were.							0
+1560	S:	They didn't have any children.							0
+1561	S:	And her nephew, they sort of like adopted him, and he lives in some part of South Carolina.							0
+1562	S:	And he wouldn't get married.							0
+1563	S:	"He says, ""I'm not going to get married if y'all can't come."""							0
+1564	S:	"So she said, ""But Turner!"""							0
+1565	S:	"I says, ""Oh, he can ride that plane with you!"							0
+1566	S:	"Because when I used to take him everywhere he needed to go."""							0
+1567	S:	But she, you know he was letting her know that.							0
+1568	S:	"I say, ""You can do it."							0
+1569	S:	You can do it.							0
+1570	S:	You can get on the plane.							0
+1571	S:	""""							0
+1572	S:	So I took them to the airport, and the peoples got him in the wheelchair, and got him on the plane.							0
+1573	S:	"I said, ""It'll be no problem, and when you get ready to come back, just call me, and I'll come back and pick you up."""							0
+1574	L:	Easy as pie.							0
+1575	S:	No problem.							0
+1576	S:	She wouldn't even—we went to the hotel in Jacksonville out to the airport where they was having a disability awareness, and Dr. Varn was his doctor.							0
+1577	S:	And Mr. Herndon, I'm telling you, that man, you wouldn't believe he had a stroke and all, and heart attack and stuff.							0
+1578	S:	His mind was so sharp.							0
+1579	S:	I mean, ugh!							0
+1580	S:	My God, that man had it!							0
+1581	L:	Even after a stroke?							0
+1582	S:	He had a mind—he even beat the—you know how they have all these tests they have you do at the VA?							0
+1583	S:	They were testing him and all this kind of stuff?							0
+1584	S:	He beat that stuff.							0
+1585	S:	And Dr. Varn wanted to really show him off, you know, so she wanted him to come.							0
+1586	S:	"So I said, ""Mr.—"" She say, ""Oh no, Margaret, I can't do it."							0
+1587	S:	You have to do it.							0
+1588	S:	You have to do.							0
+1589	S:	""" I say, ""But you need to be with him."							0
+1590	S:	"Tom will fix it."""							0
+1591	S:	So he called and told them he needed two rooms.							0
+1592	S:	So when I got there, I had on my nurse's uniform—everything, you know; my nametag and all.							0
+1593	S:	So the person at the desk, he kept looking.							0
+1594	S:	"He say, ""Is there a problem?"""							0
+1595	S:	"""No."""							0
+1596	S:	"He say, ""Well I'd like to know if there is a problem."							0
+1597	S:	Mrs. Sharpe is my nurse, and I can't go any place without her.							0
+1598	S:	She is a professional person.							0
+1599	S:	"And I'd like to have those two rooms."""							0
+1600	S:	Because see, he'd open the door between me and him so I could hear him if he needed to get up, because sometime he wouldd keep his brace on, but he really should pull it off and let his leg rest.							0
+1601	S:	So, I would have to help him to, you know, get his brace on and go to the bathroom.							0
+1602	S:	So, he was looking so—that man was really cut down.							0
+1603	S:	"""I'm sorry, I'm sorry, I'm sorry."""							0
+1604	S:	"And he'd tell me that everywhere we'd go, everywhere I'd take him, he'd say, ""Now, this is a redneck place."""							0
+1605	S:	"He say, ""But you stick with me, they not going to bother you."""							0
+1606	S:	"And one place I went to take him to his meeting, because he was high up in that forestry stuff, and I took him. """							0
+1607	S:	"Tom, your maid!"""							0
+1608	S:	"He cursed, ""I don't have no so-and-so maid!"							0
+1609	S:	Mrs. Sharpe is a professional person!							0
+1610	S:	She is a nurse!							0
+1611	S:	And she is my nurse!							0
+1612	S:	""" I mean you know how the people try to put you down?"							0
+1613	S:	Although I'm dressed, now.							0
+1614	S:	My nametag saying who I was.							0
+1615	S:	I got my pin on and everything, and my nurse's cap, because when I always took him out places, I always was dressed in my uniform.							0
+1616	S:	Especially if I know we was going somewhere or where he wanted to go.							0
+1617	L:	What year was this?							0
+1618	L:	Like, back in the—?							0
+1619	S:	Back in the 70s, yeah.							0
+1620	S:	Mmhm.							0
+1621	L:	And was he White?							0
+1622	S:	Yeah.							0
+1623	S:	He was White.							0
+1624	L:	And would people come up to you and harass?							0
+1625	L:	Or try?							0
+1626	S:	Try, yeah.							0
+1627	S:	Because I mean, because he was saying, like they was trying to disregard that I was a nurse.							0
+1628	S:	"Yeah, they'd come, ""Tom, your maid so and so and so."""							0
+1629	S:	And boy, he'd get so mad, and cuss them out.							0
+1630	L:	Even in the 70s?							0
+1631	L:	That late?							0
+1632	S:	"He'd say, ""I don't have no—."""							0
+1633	S:	"And then we used to go to practically every restaurant it was, and I'm waiting for him to sign the ticket. """							0
+1634	S:	"Sign that!"""							0
+1635	S:	So when I signed his name, and then I'd put mine on the side over here.							0
+1636	L:	To know that							0
+1637	L:	yeah, you signed it.							0
+1638	S:	"Yeah, and finally, after about five years, American Express say—sent him a letter—""Please, the owner of this card, will you please sign this card?"							0
+1639	S:	Sign when you go out, please do that.							0
+1640	S:	"""  Mr. Herndon said, ""I'm not even thinking about it."							0
+1641	S:	"They can have their old card back."""							0
+1642	S:	"I said, ""Oh, Jesus!"							0
+1643	S:	"Oh, boy!"""							0
+1644	L:	He's full of fire starter!							0
+1645	S:	He was a lieutenant colonel for thirty-eight years.							0
+1646	S:	He was a professor at the university for twenty-seven.							0
+1647	L:	What did he teach?							0
+1648	S:	Forestry.							0
+1649	L:	Forestry?							0
+1650	L:	Wow.							0
+1651	L:	What was his name again?							0
+1652	S:	Tom Herndon.							0
+1653	L:	Herndon?							0
+1654	L:	H-U—							0
+1655	S:	H-E-R-N-D-O-N							0
+1656	L:	Wow.							0
+1657	S:	Yep.							0
+1658	S:	Thomas G Herndon.							0
+1659	L:	He sounds—							0
+1660	S:	And I used to take him to the football games.							0
+1661	S:	"He said, ""Margaret!"							0
+1662	S:	I never had so much fun as with you, because I love those Gators!							0
+1663	S:	""" Boy, I mean every time they'd make a—do a good run, or a good play: ""Yeah!"							0
+1664	S:	"Yeah!"""							0
+1665	S:	"He say, ""I never had so much fun!"""							0
+1666	L:	Like those days at Lincoln?							0
+1667	S:	Yep, I did.							0
+1668	S:	I enjoyed taking him, because Mrs. Herndon thought she probably wouldn't have it.							0
+1669	S:	So me and him take the tickets, because he bought his season tickets every year.							0
+1670	L:	Wow.							0
+1671	S:	Yeah.							0
+1672	S:	But we did.							0
+1673	S:	I took him a lot of places, and a lot of places in Florida I never would have gone if it hadn't been for him, because I didn't know those places.							0
+1674	S:	"And a lot of them he would take me to, and he'd say, ""This is a redneck town."""							0
+1675	S:	"""What?"""							0
+1676	S:	"He'd say, ""You heard of it!"""							0
+1677	S:	"""Yeah, but I never really been in a lot of these places."							0
+1678	S:	""""							0
+1679	S:	"He'd say, ""Well, this is one."							0
+1680	S:	I'm telling you because I know.							0
+1681	S:	""" Because he used to travel."							0
+1682	S:	He got commissioned by the government to go from Pensacola to Key West the whole year and check out the forest and stuff.							0
+1683	S:	He did that.							0
+1684	L:	Oh, so he went all through all those towns.							0
+1685	S:	Uh-huh, oh, yep.							0
+1686	S:	He knew them.							0
+1687	S:	He knew those sixty-seven counties that we have.							0
+1688	L:	And so, he knew which ones were the—							0
+1689	S:	Mmhm.							0
+1690	S:	He knew which one was what, and we ended up in two or three of them, and he told me.							0
+1691	S:	"I was saying to myself, ""Oh Lord, please don't let nothing happen!"							0
+1692	S:	"Don't let these people go crazy!"""							0
+1693	L:	Well, I mean were there any encounters like that, where you had any problems?							0
+1694	S:	No, because he'd get them told right quick in a hurry, so it was no problem.							0
+1695	S:	No problem.							0
+1696	S:	He straightened them out right quick, and and in a hurry.							0
+1697	S:	"And like we going to go get in the—""Oh no!"							0
+1698	S:	Come right up here, Tom! .							0
+1699	S:	"You and your nurse, come right on up front!"""							0
+1700	S:	They were making sure he got his plate or whatever.							0
+1701	S:	We used to go out to the Austin Carey Farm out here?							0
+1702	S:	"They always had something out there, and it'd be a big group of them, come from all over the state.							"							-1
+1703	L:	For the forest?							0
+1704	S:	Yeah, they'd come out there.							0
+1705	S:	And I remember we went to this dinner, and it was at the top of the building; it was so nice, it was so nice!							0
+1706	S:	I think I still got that red rose that I got at dinner.							0
+1707	S:	Yeah, I think I put it in a book; I think I got it somewhere in my room, where I got it.							0
+1708	S:	It was just so nice.							0
+1709	S:	I had never been to anything that nice!							0
+1710	S:	All of these waiters, with their gloves on, and they looked like they was in tuxedos.							0
+1711	L:	Oh right, with the vests.							0
+1712	S:	Yes, and oh, they were so nice.							0
+1713	S:	They were so nice.							0
+1714	S:	And we—his doctor and him and myself.							0
+1715	S:	Really nice, and she was so pleased with the way he spoke to those people and everything, about the disability.							0
+1716	S:	He's like he didn't have no disability, because he goes everywhere, do everything he wanted to do.							0
+1717	S:	He did.							0
+1718	S:	"So they had—the forestry had a big dance somewhere down south, and I told his wife, ""The only thing he won't be able to do is dance, but you can go with him, and you'll have an enjoyable time."""							0
+1719	S:	And she did.							0
+1720	S:	Because see, the other guys in the group would dance with her, you know, and everything.							0
+1721	S:	Because she liked to dance.							0
+1722	S:	And he did too; Mr. Herndon liked to dance, too, but he wasn't able to dance.							0
+1723	S:	Mmhm.							0
+1724	S:	But he still enjoyed, because he liked talking to people and everything and all of that.							0
+1725	L:	Oh,							0
+1726	L:	yeah!							0
+1727	L:	It's still a party!							0
+1728	S:	"So she says, ""I'm glad you insisted that I go."							0
+1729	S:	"I really did have a good time."""							0
+1730	L:	Yeah.							0
+1731	S:	Yeah, so.							0
+1732	S:	I had some good experiences, I'm telling you.							0
+1733	S:	Yes!							0
+1734	S:	And working with—.  Audit-edited by: Ryan Morini, July 20, 2017 Final edit by: Ryan Morini, February 17, 2019							0
