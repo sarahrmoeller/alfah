@@ -9,7 +9,7 @@ Sample code for reformatting data files from format used for Esemble model to fo
 
 Sample input and output file for Transformer.
 
-Doing this reformatting is not absolutely necessary. YOu may be able to adjust fairseq commands instead. Refer to its documentation: https://fairseq.readthedocs.io/en/latest/overview.html
+Doing this reformatting is not absolutely necessary. You may be able to adjust fairseq commands instead. Refer to its documentation: https://fairseq.readthedocs.io/en/latest/overview.html
 
 ## multiple_negation : Multiple Negation Tagger
 
@@ -30,6 +30,10 @@ Ruled-based tagger to identify the presence of the Remote Past Bin feature. In p
 ## null_copula : Null Copula Tagger
 
 Ruled-based tagger to identify the presence of the Null Copula feature. In preliminary stages; incomplete.
+
+## existensial_it_dey : Existential It/Dey Tagger
+
+Ruled-based tagger to identify the presence of the Existential It/Dey feature. In preliminary stages; planning stage.
 
 ## annotation_guidelines : Annotation Guidelines
 
