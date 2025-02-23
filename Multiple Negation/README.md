@@ -6,7 +6,11 @@ Model outputs the multiple negation classification of each sentence in a given d
 
 ## Multiple Negation Full and Final Documentation.docx
 
+Documentation and description of code processes and rules; guidelines to test and run the code.
+
 ## MN_48_152_2 19 2024 .txt
+
+File used to test the capabilities of the multiple negation tagger. Run this using Multiple Negator Training Model Final.ipynb to confirm proper set up.
 
 ## multNegResults.txt
 
