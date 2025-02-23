@@ -1,4 +1,4 @@
 # Null-Copula
 
-## 
-Folder for Null Copula tagger. As of now, the tagger is in its planning stage.
+## Null Copula Tagger.ipynb
+Framework for Null Copula tagger. In development stages; incomplete.
