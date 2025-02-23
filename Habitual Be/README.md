@@ -18,10 +18,20 @@ Provides key information about the habitual be pipeline and how to test the proc
 
 ## cv.joblib
 
+Count vectorizer used for n_gram predictions. 
+
 ## habituality_model.joblib
+
+Machine learning habitual be  model trained on dataset and exported for usage.
 
 ## n_gram.joblib
 
+Machine learning habitual be model trained on n_gram data sourced from dataset and exported for usage.
+
 ## test gold standard lines+labels.csv
 
+Dataset with gold standard (true) values of habituality for each sentence. Input into Habitual Rule Tagger.ipynb.
+
 ## test new predicted coraal_analysis_spreadsheet.csv
+
+Dataset containing habituality predictions of sentences from test gold standard lines+labels.csv. During set-up, confirm this matches coraal_analysis_spreadsheet.csv, which outputs from Habitual Rule Generator.ipynb.
