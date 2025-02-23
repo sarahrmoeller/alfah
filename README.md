@@ -1,7 +1,8 @@
 # ALFAH -- A Toolkit for Annotating Linguistic Features in African American Oral Histories
 
-## habitual_be : Habitual Be Tagger
-Code and documentation listed to recreate model or utilize existing model to tag new sentences.
+## LREC
+
+Publication on habitual be model work and development. Folder contains research paper and presentation.
 
 Link to LREC code for this tagger: https://github.com/wilermine/CoLing-LREC-HabitualBe/tree/main
 
@@ -10,6 +11,10 @@ Sample code for reformatting data files from format used for Esemble model to fo
 Sample input and output file for Transformer.
 
 Doing this reformatting is not absolutely necessary. You may be able to adjust fairseq commands instead. Refer to its documentation: https://fairseq.readthedocs.io/en/latest/overview.html
+
+## habitual_be : Habitual Be Tagger
+
+Code and documentation listed to recreate and use model. Contains minor differences from LREC code tailored to functional goals (e.g. increase in habitual recall threshold). Aditionally contains a file to utilize the model to tag new sentences.
 
 ## multiple_negation : Multiple Negation Tagger
 
