@@ -1,6 +1,6 @@
 # ALFAH -- A Toolkit for Annotating Linguistic Features in African American Oral Histories
 
-## LREC
+## lrec: LREC
 
 Publication on habitual be model work and development. Folder contains research paper and presentation.
 
