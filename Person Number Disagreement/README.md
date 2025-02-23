@@ -2,7 +2,11 @@
 
 ## Person Number Agreement Wil. Final.ipynb
 
+Latest version of the person number disagreement tagger.
+
 ## Person Number Disagreement Full and Final Documentation .docx
+
+Documentation of person number disagreement tagger rules, data, results, and methods for testing.
 
 ## PersonNumResults.txt
 
