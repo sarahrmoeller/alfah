@@ -10,7 +10,7 @@ Documentation and description of code processes and rules; guidelines to test an
 
 ## MN_48_152_2 19 2024 .txt
 
-File used to test the capabilities of the multiple negation tagger. Run this using Multiple Negator Training Model Final.ipynb to confirm proper set up.
+File used to test the capabilities of the multiple negation tagger. Run Multiple Negator Training Model Final.ipynb using this file to confirm proper set up.
 
 ## multNegResults.txt
 
